@@ -1,0 +1,1497 @@
+{
+  "Aruba": {
+    "breakfast": ["Bolita di Keshi", "Pan Bati", "Arepas"],
+    "lunch": ["Keshi Yena", "Funchi", "Aruban Seafood Soup"],
+    "dinner": ["Red Snapper with Creole Sauce", "Cabrito Stoba", "Grilled Lobster"],
+    "snack": ["Pastechi", "Bati di Bonchi", "Yuca Fries"]
+  },
+  "Afghanistan": {
+    "breakfast": ["Bolani", "Sheer Korma", "Afghan Omelette"],
+    "lunch": ["Kabuli Pulao", "Mantu", "Ashak"],
+    "dinner": ["Qabili Pilaf", "Kofta Challow", "Bolani Kachalu"],
+    "snack": ["Sambosas", "Boulani", "Baklava"]
+  },
+  "Angola": {
+    "breakfast": ["Xima", "Bolo de Caco", "Acarajé"],
+    "lunch": ["Moamba de Galinha", "Calulu", "Feijoada"],
+    "dinner": ["Muamba de Galinha", "Mufete", "Kizaka"],
+    "snack": ["Kimbombo", "Queijadas", "Cassava Chips"]
+  },
+  "Anguilla": {
+    "breakfast": ["Johnnycakes", "Saltfish and Johnny Cake", "Cornmeal Porridge"],
+    "lunch": ["Conch Soup", "Fish Soup", "Lobster Rolls"],
+    "dinner": ["Grilled Mahi-Mahi", "Anguillan BBQ Chicken", "Conch Fritters"],
+    "snack": ["Coconut Tart", "Banana Fritters", "Tamarind Balls"]
+  },
+  "Åland Islands": {
+    "breakfast": ["Åland Pancakes", "Rye Bread with Cheese", "Porridge with Lingonberries"],
+    "lunch": ["Åland Pancake with Sautéed Chanterelles", "Smoked Salmon Sandwich", "Baltic Herring"],
+    "dinner": ["Pike-perch Soup", "Åland Fish Stew", "Smoked Pork Chops"],
+    "snack": ["Åland Apple Pie", "Korvapuusti (Cinnamon Rolls)", "Blueberry Soup"]
+  },
+  "Albania": {
+    "breakfast": ["Byrek me Hiri (Walnut Pie)", "Flia", "Petulla"],
+    "lunch": ["Tavë Kosi", "Fergesë", "Qofte të Fërguara"],
+    "dinner": ["Pasticë Me Mish", "Flija", "Qofte të Sallcës"],
+    "snack": ["Baklava", "Kadaif", "Kurabie"]
+  },
+  "Andorra": {
+    "breakfast": ["Pa Amb Tomaquet", "Coca", "Xuixo"],
+    "lunch": ["Trinxat", "Escudella i Carn d'Olla", "Canelloni"],
+    "dinner": ["Bacalao a la Llauna", "Cargols a la Llauna", "Xai a la Cervesa"],
+    "snack": ["Crema Andorrana", "Turrón", "Mel i Mató"]
+  },
+  "United Arab Emirates": {
+    "breakfast": ["Balaleet", "Chebab", "Al Harees"],
+    "lunch": ["Al Majboos", "Al Khabeesa", "Samboosa"],
+    "dinner": ["Madrooba", "Thareed", "Arabic Grilled Fish"],
+    "snack": ["Luqaimat", "Mutabbaq", "Dates with Nuts"]
+  },
+  "Argentina": {
+    "breakfast": ["Medialunas", "Tostadas", "Mate"],
+    "lunch": ["Asado", "Empanadas", "Milanesa"],
+    "dinner": ["Locro", "Matambre a la Pizza", "Humita en Chala"],
+    "snack": ["Alfajores", "Dulce de Leche", "Choripán"]
+  },
+  "Armenia": {
+    "breakfast": ["Tatik and Papik", "Aveluk Soup", "Lavash with Cheese"],
+    "lunch": ["Khorovats", "Dolma", "Lentil Soup"],
+    "dinner": ["Harissa", "Zhingyalov Hats", "Manti"],
+    "snack": ["Gata", "Sujuq", "Pakhlava"]
+  },
+  "American Samoa": {
+    "breakfast": ["Samoan Pancakes", "Palusami", "Lu Sipi"],
+    "lunch": ["Oka", "Faiai Eleni", "Supoesi"],
+    "dinner": ["Palagi Sua", "Kale Moa", "Fa'apapa"],
+    "snack": ["Poi", "Paifala", "Fa'ausi"]
+  },
+  "Antarctica": {
+    "breakfast": ["Frozen Berries Smoothie", "Instant Oatmeal", "Hot Coffee (if you can keep it warm!)"],
+    "lunch": ["Packed Sandwiches", "Freeze-Dried Soup", "Energy Bars"],
+    "dinner": ["Dehydrated Pasta", "Canned Salmon", "Chocolate Bars"],
+    "snack": ["Trail Mix", "Dried Fruits", "Protein Bars"]
+  },
+  "French Southern Territories": {
+    "breakfast": ["French Toast", "Croissants", "Pain Perdu"],
+    "lunch": ["Bouillabaisse", "Ratatouille", "Quiche Lorraine"],
+    "dinner": ["Coq au Vin", "Cassoulet", "Confit de Canard"],
+    "snack": ["Macarons", "Madeleines", "Éclairs"]
+  },
+  "Antigua and Barbuda": {
+    "breakfast": ["Fungee and Pepperpot", "Ducana", "Saltfish and Chop-up"],
+    "lunch": ["Pepperpot", "Jerk Chicken", "Conch Water"],
+    "dinner": ["Eggplant and Okra in Coconut Milk", "Curried Goat", "Roti"],
+    "snack": ["Johnny Cake", "Coconut Tarts", "Souse"]
+  },
+  "Australia": {
+    "breakfast": ["Vegemite on Toast", "Avocado Toast", "Damper"],
+    "lunch": ["Meat Pie", "Chicken Parmigiana", "Barramundi"],
+    "dinner": ["Barbecue (Barbie)", "Pavlova", "Kangaroo Steak"],
+    "snack": ["Tim Tam Biscuits", "Anzac Biscuits", "Lamingtons"]
+  },
+  "Austria": {
+    "breakfast": ["Kaisersemmel", "Muesli", "Topfenpalatschinken"],
+    "lunch": ["Wiener Schnitzel", "Apfelstrudel", "Tafelspitz"],
+    "dinner": ["Käsespätzle", "Gulasch", "Schweinsbraten"],
+    "snack": ["Sachertorte", "Linzer Torte", "Mozartkugeln"]
+  },
+  "Azerbaijan": {
+    "breakfast": ["Kutabi", "Sheki Halva", "Balig Tandir"],
+    "lunch": ["Plov", "Dolma", "Dushbara"],
+    "dinner": ["Lyulya Kebab", "Qutab", "Badimjan Dolmasi"],
+    "snack": ["Baklava", "Shakarbura", "Paxlava"]
+  },
+  "Burundi": {
+    "breakfast": ["Isombe", "Akabenz", "Akabwari"],
+    "lunch": ["Brochettes", "Ugali", "Rwabaguma"],
+    "dinner": ["Imigati", "Ubushera", "Ibihaza"],
+    "snack": ["Amashaza", "Inyamibwa", "Ibihaza"]
+  },
+  "Belgium": {
+    "breakfast": ["Belgian Waffles", "Speculoos Spread", "Chocolatines"],
+    "lunch": ["Moules Frites", "Carbonade Flamande", "Stoemp"],
+    "dinner": ["Waterzooi", "Vol-au-Vent", "Filet Américain"],
+    "snack": ["Chocolate Pralines", "Speculoos Cookies", "Belgian Endive with Blue Cheese"]
+  },
+  "Benin": {
+    "breakfast": ["Akassa", "Fufu and Okra Soup", "Maize Porridge"],
+    "lunch": ["Jollof Rice", "Ayimolou", "Gboma Dessi"],
+    "dinner": ["Grilled Fish with Spicy Sauce", "Yam Pottage", "Atassi Sauce"],
+    "snack": ["Kuli Kuli", "Fried Plantains", "Grilled Corn"]
+  },
+  "Bonaire, Sint Eustatius and Saba": {
+    "breakfast": ["Bolo Pretu (Black Cake)", "Pastechi", "Koffie Verkeerd"],
+    "lunch": ["Keshi Yena", "Stoba", "Bami"],
+    "dinner": ["Sòpi Mondongo", "Karni Stoba", "Sopi Yuana"],
+    "snack": ["Kokada", "Ayaka", "Bolita di Keshi"]
+  },
+  "Burkina Faso": {
+    "breakfast": ["Tô", "Fulfulde Soup", "Bouilli"],
+    "lunch": ["Riz Gras", "Poulet Bicyclette", "Bissap Juice"],
+    "dinner": ["Igname Sauce Gombo", "Thiéboudienne", "Fufu and Soup"],
+    "snack": ["Brochettes", "Kooséré", "Baba Syrup"]
+  },
+  "Bangladesh": {
+    "breakfast": ["Panta Bhat", "Chingri Bhorta", "Chira"],
+    "lunch": ["Bhapa Ilish", "Dhokar Dalna", "Shorshe Maach"],
+    "dinner": ["Morog Polao", "Fuchka (Pani Puri)", "Biryani"],
+    "snack": ["Chingri Bhapa", "Misti Doi", "Patishapta"]
+  },
+  "Bulgaria": {
+    "breakfast": ["Banitsa", "Mekitsi", "Boza"],
+    "lunch": ["Kavarma", "Shopska Salad", "Kyufteta"],
+    "dinner": ["Musaka", "Sarmi", "Bobi"],
+    "snack": ["Lyutenitsa", "Baklava", "Kadaif"]
+  },
+  "Bahrain": {
+    "breakfast": ["Balaleet", "Harees", "Chebab"],
+    "lunch": ["Machbous", "Jireesh", "Mahoo"],
+    "dinner": ["Ghoozi", "Samboosa", "Luqaimat"],
+    "snack": ["Khabeesa", "Halwa Showaiter", "Khubz"]
+  },
+  "Bahamas": {
+    "breakfast": ["Rock Lobster", "Conch Salad", "Bahamian Johnny Cake"],
+    "lunch": ["Bahama Mama", "Cracked Conch", "Bahamian Stew Fish"],
+    "dinner": ["Bahamian Boil Fish", "Peas and Rice", "Bahamian Macaroni and Cheese"],
+    "snack": ["Guava Duff", "Bahamian Goombay Punch", "Sky Juice"]
+  },
+  "Bosnia and Herzegovina": {
+    "breakfast": ["Begova Čorba", "Pita", "Jogurt"],
+    "lunch": ["Begova Štruklja", "Cevapi", "Begova Begova Pljeskavica"],
+    "dinner": ["Burek", "Sogan-dolma", "Japrak"],
+    "snack": ["Tufahija", "Hurmasica", "Begova Supa"]
+  },
+  "Saint Barthélemy": {
+    "breakfast": ["Pain Perdu", "Croissants", "Café au Lait"],
+    "lunch": ["Salade Saint-Barth", "Colombo de Poulet", "Lambi Ceviche"],
+    "dinner": ["Grilled Lobster", "Tarte Tatin", "Langouste à l'Armoricaine"],
+    "snack": ["Pomme d'Amour", "Tourment d'Amour", "Caraïbes Chocolate"]
+  },
+  "Belarus": {
+    "breakfast": ["Draniki", "Machanka", "Tsikoudia"],
+    "lunch": ["Hare's Ears", "Zrazy", "Tsar's Cake"],
+    "dinner": ["Kolduny", "Mochanka", "Pompushki"],
+    "snack": ["Kletski", "Kisiel", "Tula Gingerbread"]
+  },
+  "Belize": {
+    "breakfast": ["Fry Jacks", "Johnny Cakes", "Chaya Omelette"],
+    "lunch": ["Rice and Beans with Stew Chicken", "Garnaches", "Salbutes"],
+    "dinner": ["Escabeche", "Boil Up", "Hudut"],
+    "snack": ["Conch Fritters", "Panades", "Coconut Tarts"]
+  },
+  "Bermuda": {
+    "breakfast": ["Codfish and Potatoes", "Hoppin' John", "Bermudian Banana Bread"],
+    "lunch": ["Fish Chowder", "Bermuda Fish Sandwich", "Shark Hash"],
+    "dinner": ["Bermuda Fish Stew", "Baked Rockfish", "Lobster Thermidor"],
+    "snack": ["Fish Nuggets", "Fish Tacos", "Bermuda Fish Cakes"]
+  },
+  "Bolivia, Plurinational State of": {
+    "breakfast": ["Api", "Tucumanas", "Humintas"],
+    "lunch": ["Salteñas", "Sopa de Maní", "Sajta de Pollo"],
+    "dinner": ["Silpancho", "Pique Macho", "Fricasé"],
+    "snack": ["Anticuchos", "Buñuelos", "Bocadillos"]
+  },
+  "Brazil": {
+    "breakfast": ["Açaí Bowl", "Pão de Queijo", "Tapioca Crepes"],
+    "lunch": ["Feijoada", "Moqueca", "Picanha"],
+    "dinner": ["Churrasco", "Coxinha", "Vatapá"],
+    "snack": ["Brigadeiro", "Pastel", "Coxinha"]
+  },
+  "Barbados": {
+    "breakfast": ["Flying Fish and Cou Cou", "Bajan Salt Bread", "Ackee and Saltfish"],
+    "lunch": ["Bajan Pepperpot", "Conkies", "Fish Cakes"],
+    "dinner": ["Coo Coo", "Fish Cutter", "Bajan Macaroni Pie"],
+    "snack": ["Bajan Sweet Bread", "Doubles", "Fish Cutter"]
+  },
+  "Brunei Darussalam": {
+    "breakfast": ["Nasi Katok", "Ambuyat", "Tutong Cake"],
+    "lunch": ["Nasi Lemak", "Umai", "Pulut Panggang"],
+    "dinner": ["Ambuyat", "Nasi Goreng", "Soto"],
+    "snack": ["Kuih Mor", "Kuih Cincin", "Kuih Ambuyat"]
+  },
+  "Bhutan": {
+    "breakfast": ["Phaksha Paa", "Ema Datshi", "Jasha Maroo"],
+    "lunch": ["Kewa Datshi", "Shamu Datshi", "Hoo"],
+    "dinner": ["Phurum", "Shakam Paa", "Shakam Shukam"],
+    "snack": ["Juma", "Khapsey", "Goen Hogay"]
+  },
+  "Bouvet Island": {
+    "breakfast": ["Ice Crystals", "Frozen Fruits", "Blizzard Biscuits"],
+    "lunch": ["Glacial Soup", "Snowflake Salad", "Polar Popsicles"],
+    "dinner": ["Frozen Fish Fillet", "Iceberg Stew", "Arctic Apple Pie"],
+    "snack": ["Frosty Fudge", "Snow Snack Mix", "Glacier Granola Bars"]
+  },
+  "Botswana": {
+    "breakfast": ["Seswaa", "Bogobe", "Madila"],
+    "lunch": ["Serobe", "Morogo", "Bunny Chow"],
+    "dinner": ["Braaied Meat", "Potjiekos", "Mopane Worms"],
+    "snack": ["Boerewors Rolls", "Dikgobe", "Vetkoek"]
+  },
+  "Central African Republic": {
+    "breakfast": ["Cassava Bread", "Bouillie", "Foufou"],
+    "lunch": ["Kanda", "Poulet Nyembwe", "Soso"],
+    "dinner": ["Brochettes", "Mbaku", "Kanda Ti Nga"],
+    "snack": ["Soso na Nyembwe", "Chikwangue", "Bouillon de Feuilles"]
+  },
+  "Canada": {
+    "breakfast": ["Poutine", "BeaverTails", "Tourtière"],
+    "lunch": ["Caesar Salad", "Montreal-Style Bagels", "Butter Tarts"],
+    "dinner": ["Maple-Glazed Salmon", "Nanaimo Bars", "Peameal Bacon"],
+    "snack": ["Ketchup Chips", "Smarties", "All-Dressed Chips"]
+  },
+  "Cocos (Keeling) Islands": {
+    "breakfast": ["Coconut Pancakes", "Coconut Chutney", "Banana Bread"],
+    "lunch": ["Seafood Laksa", "Coconut Prawns", "Beef Rendang"],
+    "dinner": ["Chilli Crab", "Lobster Tail with Coconut Sauce", "Grilled Tuna with Lime and Coconut"],
+    "snack": ["Coconut Sago Pudding", "Pandan Coconut Cake", "Coconut Ice Cream"]
+  },
+  "Switzerland": {
+    "breakfast": ["Bircher Muesli", "Rösti", "Zopf"],
+    "lunch": ["Fondue", "Raclette", "Älplermagronen"],
+    "dinner": ["Zürcher Geschnetzeltes", "Bündner Nusstorte", "Rahmschnitzel"],
+    "snack": ["Swiss Chocolate", "Basler Läckerli", "Swiss Cheese"]
+  },
+  "Chile": {
+    "breakfast": ["Pan con Tomate", "Completo", "Hallulla with Avocado"],
+    "lunch": ["Empanadas", "Pastel de Choclo", "Cazuela"],
+    "dinner": ["Asado", "Chorrillana", "Conger Eel Stew"],
+    "snack": ["Chilean Humitas", "Machas a la Parmesana", "Pisco Sour"]
+  },
+  "China": {
+    "breakfast": ["Youtiao", "Doujiang", "Jianbing"],
+    "lunch": ["Peking Duck", "Hot Pot", "Xiaolongbao"],
+    "dinner": ["Kung Pao Chicken", "Mapo Tofu", "Sweet and Sour Pork"],
+    "snack": ["Dim Sum", "Spring Rolls", "Bubble Tea"]
+  },
+  "Côte d'Ivoire": {
+    "breakfast": ["Alloco", "Attieke", "Foutou"],
+    "lunch": ["Garba", "Kedjenou", "Bouillie"],
+    "dinner": ["Ivorian Grilled Fish", "Choukouya", "Braaisé"],
+    "snack": ["Klako", "Puff-Puff", "Banan Peze"]
+  },
+  "Cameroon": {
+    "breakfast": ["Achu", "Koki", "Beignets"],
+    "lunch": ["Ndolé", "Sangah", "Eru"],
+    "dinner": ["Dibindi", "Nkui", "Ekwang"],
+    "snack": ["Koki Corn", "Bofrot", "Fried Plantains"]
+  },
+  "Congo, The Democratic Republic of the": {
+    "breakfast": ["Chikwanga", "Bobolo", "Beignets"],
+    "lunch": ["Liboke", "Soso ya Madesu", "Fumbwa"],
+    "dinner": ["Muamba Nsusu", "Kwanga", "Biteku Te Kola"],
+    "snack": ["Fufu and Peanut Soup", "Maboke", "Brochettes"]
+  },
+  "Congo": {
+    "breakfast": ["Chikwanga", "Bobolo", "Beignets"],
+    "lunch": ["Liboke", "Soso ya Madesu", "Fumbwa"],
+    "dinner": ["Muamba Nsusu", "Kwanga", "Biteku Te Kola"],
+    "snack": ["Fufu and Peanut Soup", "Maboke", "Brochettes"]
+  },
+  "Cook Islands": {
+    "breakfast": ["Ika Mata", "Kuru", "Pawpaw Smoothie"],
+    "lunch": ["Rukau", "Ika Mata", "Kumara and Tuna Salad"],
+    "dinner": ["Curried Eke", "Poke", "Umu"],
+    "snack": ["Kai", "Taro Chips", "Raw Fish Salad"]
+  },
+  "Colombia": {
+    "breakfast": ["Arepas", "Calentado", "Pandebono"],
+    "lunch": ["Bandeja Paisa", "Ajiaco", "Lechona"],
+    "dinner": ["Sancocho", "Bollo de Mazorca", "Arroz con Coco"],
+    "snack": ["Buñuelos", "Empanadas", "Arepa de Huevo"]
+  },
+  "Comoros": {
+    "breakfast": ["Mkatra Foutra", "Langouste à la Vanille", "Yam and Banana Fritters"],
+    "lunch": ["Langouste au Coco", "Biriani", "Poisson Sauce aux Comores"],
+    "dinner": ["Boka Boka", "Brochettes de Capitaine", "Rougaille de Calamars"],
+    "snack": ["Banane Figue", "Gateau Piment", "Boule Coco"]
+  },
+  "Cabo Verde": {
+    "breakfast": ["Cachupa", "Queijo de Cabra", "Bolo de Milho"],
+    "lunch": ["Cachupa Rica", "Catchupa", "Feijoada de Cachupa"],
+    "dinner": ["Lagosta Grelhada", "Cavala Grelhada", "Polvo à Lagareiro"],
+    "snack": ["Pastel com Diabo Dentro", "Dulce de Leche", "Cuscus de Milho"]
+  },
+  "Costa Rica": {
+    "breakfast": ["Gallo Pinto", "Casado", "Tamales"],
+    "lunch": ["Olla de Carne", "Arroz con Pollo", "Casado"],
+    "dinner": ["Ceviche", "Gallo Pinto with Fried Eggs", "Chifrijo"],
+    "snack": ["Tostones", "Chicharrones", "Plátano Maduro con Queso"]
+  },
+  "Cuba": {
+    "breakfast": ["Cuban Toast", "Café con Leche", "Tostones"],
+    "lunch": ["Ropa Vieja", "Arroz con Pollo", "Picadillo"],
+    "dinner": ["Vaca Frita", "Moros y Cristianos", "Cuban Sandwich"],
+    "snack": ["Yuca con Mojo", "Pastelitos", "Malta"]
+  },
+  "Curaçao": {
+    "breakfast": ["Pan Bati", "Bolo di Cashupete", "Pastechi"],
+    "lunch": ["Keshi Yena", "Stoba", "Funchi"],
+    "dinner": ["Piska Krioyo", "Kabritu Stoba", "Karko Soup"],
+    "snack": ["Ayaka", "Kokada", "Ebi"]
+  },
+  "Christmas Island": {
+    "breakfast": ["Christmas Pudding", "Pineapple Biscuits", "Coconut Banana Bread"],
+    "lunch": ["Grilled Red Crab", "Seafood Curry", "Christmas Island Fried Rice"],
+    "dinner": ["Crab Curry", "Grilled Barramundi", "Lobster with Garlic Butter"],
+    "snack": ["Palm Sugar Pancakes", "Coconut Ice Cream", "Pandanus Fruit Salad"]
+  },
+  "Cayman Islands": {
+    "breakfast": ["Ackee and Saltfish", "Pepper Pot Soup", "Mahi Mahi"],
+    "lunch": ["Conch Stew", "Turtle Stew", "Cayman Style Beef"],
+    "dinner": ["Fish Rundown", "Breadfruit and Saltfish", "Cayman Style Chicken"],
+    "snack": ["Jerk Chicken", "Cayman Style Escovitch Fish", "Tamarind Balls"]
+  },
+  "Cyprus": {
+    "breakfast": ["Halloumi with Watermelon", "Cypriot Coffee", "Flaounes"],
+    "lunch": ["Moussaka", "Souvlaki", "Kleftiko"],
+    "dinner": ["Yemista", "Sheftalia", "Tavuklu Pilav"],
+    "snack": ["Loukoumades", "Koupes", "Cyprus Delight"]
+  },
+  "Czechia": {
+    "breakfast": ["Chlebíčky", "Šunkofleky", "Ovocné Knedlíky"],
+    "lunch": ["Svíčková na Smetaně", "Trdelník", "Pražská Šunka"],
+    "dinner": ["Kulajda", "Knedlíky s Vepřovým", "Tatarák"],
+    "snack": ["Pražská Šunka", "Tvarůžky", "Medovník"]
+  },
+  "Germany": {
+    "breakfast": ["Brötchen", "Müsli", "Leberkäse"],
+    "lunch": ["Sauerbraten", "Bratwurst", "Schweinshaxe"],
+    "dinner": ["Kartoffelsalat", "Spätzle", "Rouladen"],
+    "snack": ["Brezeln", "Weisswurst", "Apfelstrudel"]
+  },
+  "Djibouti": {
+    "breakfast": ["Laxoox", "Anjero", "Ambabbo"],
+    "lunch": ["Skoudehkaris", "Fah-fah", "Banana Soup"],
+    "dinner": ["Bouillabaisse Djiboutian", "Soupe Djiboutienne", "Iskudhehkaris"],
+    "snack": ["Bisbise", "Garow", "Dabqaad"]
+  },
+  "Dominica": {
+    "breakfast": ["Saltfish and Breadfruit", "Bakes and Saltfish", "Callaloo Soup"],
+    "lunch": ["Mountain Chicken", "Crab Back", "Johann River Soup"],
+    "dinner": ["Green Fig and Saltfish", "Callaloo and Breadfruit", "Dominican Pepper Pot"],
+    "snack": ["Tannia Cakes", "Dukuna", "Funchi"]
+  },
+  "Denmark": {
+    "breakfast": ["Rye Bread with Cheese", "Wienerbrød", "Øllebrød"],
+    "lunch": ["Smørrebrød", "Frikadeller", "Leverpostej"],
+    "dinner": ["Stegt Flæsk", "Medisterpølse", "Boller i Karry"],
+    "snack": ["Kransekage", "Danish Butter Cookies", "Pølsevogn Hot Dog"]
+  },
+  "Dominican Republic": {
+    "breakfast": ["Mangú", "Mangu con los Tres Golpes", "Mondongo Soup"],
+    "lunch": ["Mangu con Queso Frito", "Sancocho", "Mofongo"],
+    "dinner": ["Chivo Guisado", "Pescado con Coco", "Locrio de Pollo"],
+    "snack": ["Pasteles en Hoja", "Dulce de Leche", "Habichuelas con Dulce"]
+  },
+  "Algeria": {
+    "breakfast": ["Chakchouka", "Makroudh", "Msemen"],
+    "lunch": ["Couscous", "Brik", "Tajine"],
+    "dinner": ["Mechoui", "Rechta", "Lahm Lhalou"],
+    "snack": ["Maaqouda", "Bouzgene Berber Pizza", "Kaab el Ghazal"]
+  },
+  "Ecuador": {
+    "breakfast": ["Bolón de Verde", "Llapingachos", "Quimbolitos"],
+    "lunch": ["Ceviche", "Seco de Pollo", "Encebollado"],
+    "dinner": ["Ecuadorian Shrimp Soup", "Arroz con Menestra y Carne", "Hornado"],
+    "snack": ["Humitas", "Tigrillo", "Encocado de Pescado"]
+  },
+  "Egypt": {
+    "breakfast": ["Ful Medames", "Taameya", "Baladi Bread"],
+    "lunch": ["Koshari", "Molokhia", "Mahshi"],
+    "dinner": ["Fattah", "Shawarma", "Mansaf"],
+    "snack": ["Baklava", "Basbousa", "Qatayef"]
+  },
+  "Eritrea": {
+    "breakfast": ["Injera", "Fitfit", "Himbasha"],
+    "lunch": ["Tsebhi Sga", "Doro Wat", "Kitfo"],
+    "dinner": ["Shiro", "Firfir", "Hamli"],
+    "snack": ["Budenaa", "Mies", "Sambusa"]
+  },
+  "Western Sahara": {
+    "breakfast": ["Rghifa", "Msemen", "Harira"],
+    "lunch": ["Couscous", "Tajine", "Chorba"],
+    "dinner": ["Lahm Lhalou", "Mechoui", "Rechta"],
+    "snack": ["Sellou", "Harcha", "Bakoula"]
+  },
+  "Spain": {
+    "breakfast": ["Pan con Tomate", "Churros", "Tortilla Española"],
+    "lunch": ["Paella", "Gazpacho", "Jamón Ibérico"],
+    "dinner": ["Tapas", "Pulpo a la Gallega", "Fabada Asturiana"],
+    "snack": ["Patatas Bravas", "Crema Catalana", "Tarta de Santiago"]
+  },
+  "Estonia": {
+    "breakfast": ["Kama", "Õunapuder", "Kohuke"],
+    "lunch": ["Verivorst", "Hapukapsasupp", "Karask"],
+    "dinner": ["Mulgikapsad", "Kartuliporss", "Räimed"],
+    "snack": ["Kohuke", "Kali", "Leivasupp"]
+  },
+  "Ethiopia": {
+    "breakfast": ["Injera", "Dulet", "Genfo"],
+    "lunch": ["Doro Wat", "Kitfo", "Shiro"],
+    "dinner": ["Tibs", "Kitfo", "Gored Gored"],
+    "snack": ["Dabo Kolo", "Kolo", "Bunna"]
+  },
+  "Finland": {
+    "breakfast": ["Ruisleipä", "Karjalanpiirakka", "Porridge"],
+    "lunch": ["Hernekeitto", "Kalakukko", "Lohikeitto"],
+    "dinner": ["Kalapuikot", "Karjalanpaisti", "Lihapullat"],
+    "snack": ["Salmiakki", "Ruisleipä with Leipäjuusto", "Mustikkapiirakka"]
+  },
+  "Fiji": {
+    "breakfast": ["Kokoda", "Taro", "Fijian Roti"],
+    "lunch": ["Lovo", "Rourou", "Palusami"],
+    "dinner": ["Kokoda", "Fish Curry", "Breadfruit"],
+    "snack": ["Coconut Bread", "Fijian Banana Cake", "Fijian Pancakes"]
+  },
+  "Falkland Islands (Malvinas)": {
+    "breakfast": ["Fisherman's Breakfast", "Smoko", "Sausage Sandwich"],
+    "lunch": ["Falkland Islands Lamb Stew", "Squid Pie", "Sautéed Falkland Scallops"],
+    "dinner": ["Roast Beef", "Patagonian Toothfish", "Pan-Fried Mullet"],
+    "snack": ["Rockhopper Penguin Pies", "Kelp Gull Eggs", "Crab-Stuffed Calamari"]
+  },
+  "France": {
+    "breakfast": ["Croissant", "Pain au Chocolat", "Brioche"],
+    "lunch": ["Baguette Sandwiches", "Ratatouille", "Coq au Vin"],
+    "dinner": ["Boeuf Bourguignon", "Duck Confit", "Bouillabaisse"],
+    "snack": ["Macarons", "Éclairs", "Tarte Tatin"]
+  },
+  "Faroe Islands": {
+    "breakfast": ["Ræst Kjøt", "Skerpikjøt", "Flatkaka"],
+    "lunch": ["Grind og spik", "Bollur", "Sursavssild"],
+    "dinner": ["Brimlað Kjøt", "Pork with Rhubarb Sauce", "Fiskur við Breyði"],
+    "snack": ["Ryðmi", "Brannt Kikja", "Maltøl"]
+  },
+  "Micronesia, Federated States of": {
+    "breakfast": ["Taro Pancakes", "Fried Rice with Spam", "Banana Fritters"],
+    "lunch": ["Chicken Kelaguen", "Pumpkin Soup", "Coconut Crab"],
+    "dinner": ["Poisson Cru", "Tinaktak", "Stir-Fried Breadfruit"],
+    "snack": ["Tapioca Pudding", "Sweet Potato Pie", "Yam Balls"]
+  },
+  "Gabon": {
+    "breakfast": ["Acaraje", "Fruit Salad", "Mandazi"],
+    "lunch": ["Muamba de Galinha", "Brochettes", "Attiéké"],
+    "dinner": ["Poulet Nyembwe", "Okra Soup", "Foufou"],
+    "snack": ["Beignets", "Saka Saka", "Kondre"]
+  },
+  "United Kingdom": {
+    "breakfast": ["Full English Breakfast", "Porridge", "Crumpets"],
+    "lunch": ["Fish and Chips", "Chicken Tikka Masala", "Ploughman's Lunch"],
+    "dinner": ["Roast Beef with Yorkshire Pudding", "Shepherd's Pie", "Bangers and Mash"],
+    "snack": ["Scones with Clotted Cream and Jam", "Victoria Sponge Cake", "Tea and Biscuits"]
+  },
+  "Georgia": {
+    "breakfast": ["Khachapuri", "Pkhali", "Lobiani"],
+    "lunch": ["Khinkali", "Satsivi", "Mtsvadi"],
+    "dinner": ["Chashushuli", "Kharcho", "Adjarian Khachapuri"],
+    "snack": ["Churchkhela", "Gozinaki", "Pelamushi"]
+  },
+  "Guernsey": {
+    "breakfast": ["Guernsey Gâche", "Bean Jar", "Guernsey Biscuits"],
+    "lunch": ["Ormers", "Guernsey Pasty", "Bouillabaisse"],
+    "dinner": ["Guernsey Bean Jar", "Fried Guernsey Skate", "Seafood Ragoût"],
+    "snack": ["Guernsey Ice Cream", "Guernsey Gâche Bread and Butter Pudding", "Crab Sandwich"]
+  },
+  "Ghana": {
+    "breakfast": ["Waakye", "Oats Porridge", "Tea Bread"],
+    "lunch": ["Jollof Rice", "Banku with Tilapia", "Fufu with Light Soup"],
+    "dinner": ["Kelewele", "Red Red", "Ampesi"],
+    "snack": ["Chinchinga", "Kelewele", "Ghanaian Donuts"]
+  },
+  "Gibraltar": {
+    "breakfast": ["Calentita", "Pan Dulce", "Spanish Omelette"],
+    "lunch": ["Rosto", "Gambas Pil Pil", "Bacalao a la Vizcaína"],
+    "dinner": ["Babycakes", "Tarta de la Abuela", "Mackerel and Chickpea Salad"],
+    "snack": ["Bollo de Hornasso", "Pisto", "Gibraltarian Easter Egg"]
+  },
+  "Guinea": {
+    "breakfast": ["Beignet", "Attayef", "Bouillie"],
+    "lunch": ["Mafé", "Thiéboudienne", "Sousou"],
+    "dinner": ["Poulet DG", "Fouti", "Kansi"],
+    "snack": ["Banana Cake", "Ngalakh", "Dibi"]
+  },
+  "Guadeloupe": {
+    "breakfast": ["Bokit", "Accras", "Pain Bouchon"],
+    "lunch": ["Colombo de Poulet", "Blaff", "Gratin de Christophine"],
+    "dinner": ["Civet de Porc", "Court-Bouillon", "Matété de Crabe"],
+    "snack": ["Tourment d'Amour", "Sorbet Coco", "Pouding Chômeur"]
+  },
+  "Gambia": {
+    "breakfast": ["Benachin", "Plasas", "Chereh"],
+    "lunch": ["Domoda", "Tapalapa Bread", "Chicken Yassa"],
+    "dinner": ["Superkanja", "Okra Soup", "Nyebbeh"],
+    "snack": ["Kube", "Chura Gerte", "Benechin"]
+  },
+  "Guinea-Bissau": {
+    "breakfast": ["Caldo de Mancarra", "Bolo Polana", "Pasteis de Nata"],
+    "lunch": ["Jollof Rice", "Tikka Masala", "Calulu"],
+    "dinner": ["Arroz de Marisco", "Camarão Tigre Grelhado", "Frango de Caju"],
+    "snack": ["Cachupa", "Bissau Ice Cream", "Cashew Nut Biscuits"]
+  },
+  "Equatorial Guinea": {
+    "breakfast": ["Egusi Soup", "Succotash", "Mokatada"],
+    "lunch": ["Sipopo Salad", "Choco in Salsa", "Grilled Malabo Prawns"],
+    "dinner": ["Kari Kari", "Grilled Tilapia", "Ekwang"],
+    "snack": ["Akara", "Buñuelos", "Malabo Mango Smoothie"]
+  },
+  "Greece": {
+    "breakfast": ["Frappe", "Koulouri", "Bougatsa"],
+    "lunch": ["Moussaka", "Souvlaki", "Gemista"],
+    "dinner": ["Fasolada", "Spanakopita", "Kleftiko"],
+    "snack": ["Loukoumades", "Tzatziki", "Dolma"]
+  },
+  "Grenada": {
+    "breakfast": ["Oil Down", "Bakes and Saltfish", "Fried Breadfruit"],
+    "lunch": ["Callaloo Soup", "Oildown", "Conch Water"],
+    "dinner": ["Roti and Curry", "Lambie Pie", "Fried Kingfish"],
+    "snack": ["Grenadian Nutmeg Ice Cream", "Tania Log", "Fudge"]
+  },
+  "Greenland": {
+    "breakfast": ["Smørrebrød", "Rye Bread with Fish", "Kalaallit Kaagiat"],
+    "lunch": ["Suaasat", "Mattak", "Polar Bear Steak"],
+    "dinner": ["Seal Soup", "Grilled Reindeer", "Whale Blubber"],
+    "snack": ["Crowberry Pie", "Kivak", "Greenlandic Coffee"]
+  },
+  "Guatemala": {
+    "breakfast": ["Tamales", "Chiles Rellenos", "Atol de Elote"],
+    "lunch": ["Pepián", "Kak'ik", "Joco con Gallina"],
+    "dinner": ["Hilachas", "Revoltijo", "Plátanos en Mole"],
+    "snack": ["Chuchitos", "Granitas", "Yuca con Chicharrón"]
+  },
+  "French Guiana": {
+    "breakfast": ["Couac", "Pain Poisson", "Crabe Bouilli"],
+    "lunch": ["Bouilli", "Matoutou", "Awara Soup"],
+    "dinner": ["Awara Soup", "Poulet Colombo", "Civet de Caïman"],
+    "snack": ["Papaye Fleuri", "Gratin de Bananes", "Boudin Noir"]
+  },
+  "Guam": {
+    "breakfast": ["Red Rice", "Titiyas", "Coconut Candy"],
+    "lunch": ["Kelaguen", "Chicken Adobo", "Lumpia"],
+    "dinner": ["Estufao", "Chamorro BBQ", "Fina'denne"],
+    "snack": ["Boñelos Aga'", "Latåte'", "Tinaktak"]
+  },
+  "Guyana": {
+    "breakfast": ["Pepperpot", "Roti", "Metemgee"],
+    "lunch": ["Cook-up Rice", "Curry Chicken", "Black Pudding"],
+    "dinner": ["Guyanese-style Chow Mein", "Barbecue Chicken", "Curry Duck"],
+    "snack": ["Cassava Pone", "Pholourie", "Salara"]
+  },
+  "Hong Kong": {
+    "breakfast": ["Congee", "Hong Kong-style French Toast", "Egg Tart"],
+    "lunch": ["Dim Sum", "Wonton Noodle Soup", "Char Siu Rice"],
+    "dinner": ["Peking Duck", "Hot Pot", "Sweet and Sour Pork"],
+    "snack": ["Egg Waffle", "Mango Pomelo Sago", "Bubble Tea"]
+  },
+  "Heard Island and McDonald Islands": {
+    "breakfast": ["Subantarctic Sandwich", "Kerguelen Cabbage", "Antarctic Algae Smoothie"],
+    "lunch": ["Macaroni Penguin Pie", "Heard Island Kelp Salad", "Marion Island Mackerel"],
+    "dinner": ["Seared Southern Ocean Squid", "McDonald Island Lichen Pizza", "Subantarctic Seafood Platter"],
+    "snack": ["Croissant de Île de la Possession", "Antarctic Ice Cream", "Bouillabaisse of Île Saint-Paul"]
+  },
+  "Honduras": {
+    "breakfast": ["Baleadas", "Plátanos Fritos", "Catrachas"],
+    "lunch": ["Sopa de Caracol", "Honduran Enchiladas", "Rondón"],
+    "dinner": ["Pescado Frito", "Carneada", "Nacatamal"],
+    "snack": ["Pastelitos", "Tajadas con Queso", "Chorreadas"]
+  },
+  "Croatia": {
+    "breakfast": ["Sir i Vrhnje", "Dalmatian Prosciutto with Cheese", "Povitica"],
+    "lunch": ["Pasticada", "Octopus Salad", "Istrian Fuzi Pasta"],
+    "dinner": ["Black Risotto", "Peka", "Brudet"],
+    "snack": ["Arancini", "Soparnik", "Krostule"]
+  },
+  "Haiti": {
+    "breakfast": ["Joumou Soup", "Mayi Moulen", "Dous Makos"],
+    "lunch": [" Griot", "Diri Djon Djon", "Lambi"],
+    "dinner": ["Tassot", "Pikliz", "Soup Joumou"],
+    "snack": ["Akasan", "Pain Patate", "Doukounou"]
+  },
+  "Hungary": {
+    "breakfast": ["Kolbász", "Lángos", "Tejfölös Zsemle"],
+    "lunch": ["Gulyás", "Pörkölt", "Halászlé"],
+    "dinner": ["Töltött Káposzta", "Paprikás Csirke", "Lecso"],
+    "snack": ["Túró Rudi", "Rántott Sajt", "Palacsinta"]
+  },
+  "Indonesia": {
+    "breakfast": ["Nasi Goreng", "Bubur Ayam", "Ketoprak"],
+    "lunch": ["Rendang", "Nasi Padang", "Sate"],
+    "dinner": ["Soto Betawi", "Nasi Uduk", "Pecel Lele"],
+    "snack": ["Martabak", "Klepon", "Dadar Gulung"]
+  },
+  "Isle of Man": {
+    "breakfast": ["Kippers", "Manx Soda Bread", "Laverbread"],
+    "lunch": ["Queenies", "Loaghtan Lamb", "Smoked Kipper Pâté"],
+    "dinner": ["Manx Pie", "Manx Cheese and Onion Pie", "Fisherman's Pie"],
+    "snack": ["Manx Knobs", "Buttered Brathen", "Apple Crumble"]
+  },
+  "India": {
+    "breakfast": ["Poha", "Upma", "Oats Dosa", "Idli", "Dhokla", "Besan Chilla"],
+    "lunch": ["Roti with Sabzi", "Dal Tadka", "Palak Paneer", "Quinoa Pulao", "Grilled Chicken Salad", "Mixed Vegetable Khichdi"],
+    "dinner": ["Grilled Fish with Steamed Vegetables", "Methi Thepla", "Lauki Soup", "Tofu Stir-Fry", "Moong Dal Khichdi", "Cauliflower Rice Biryani"],
+    "snack": ["Roasted Chickpeas", "Mixed Nuts", "Fruit Chaat", "Cucumber Raita", "Sprout Salad"]
+  },
+  "British Indian Ocean Territory": {
+    "breakfast": ["Coconut Chutney", "Rice Upma", "Mango Lassi"],
+    "lunch": ["Kulhi Borkibaa", "Mas Huni", "Fihunu Mas"],
+    "dinner": ["Garudhiya", "Bambukeylu Hiti", "Banana Flower Salad"],
+    "snack": ["Bajiya", "Bondi", "Fulhoonu"]
+  },
+  "Ireland": {
+    "breakfast": ["Irish Porridge", "Full Irish Breakfast", "Boxty"],
+    "lunch": ["Irish Stew", "Coddle", "Colcannon"],
+    "dinner": ["Shepherd's Pie", "Bacon and Cabbage", "Dublin Coddle"],
+    "snack": ["Soda Bread", "Irish Coffee", "Barmbrack"]
+  },
+  "Iran, Islamic Republic of": {
+    "breakfast": ["Nan-o Panir-o Sabzi", "Haleem", "Laboo"],
+    "lunch": ["Chelo Kebab", "Ghormeh Sabzi", "Zereshk Polo"],
+    "dinner": ["Fesenjan", "Kashk-e Bademjan", "Tahchin"],
+    "snack": ["Koloocheh", "Gaz", "Sohan"]
+  },
+  "Iraq": {
+    "breakfast": ["Masgouf", "Kahi", "Qaymaq"],
+    "lunch": ["Dolma", "Quzi", "Tashreeb"],
+    "dinner": ["Pacha", "Biryani", "Kubba"],
+    "snack": ["Kleicha", "Bamya", "Kahi"]
+  },
+  "Iceland": {
+    "breakfast": ["Skyr", "Hangikjöt", "Flatkaka"],
+    "lunch": ["Icelandic Fish Stew", "Kjötsúpa", "Plokkfiskur"],
+    "dinner": ["Lamb with Caramelized Potatoes", "Hákarl", "Rúgbrauð"],
+    "snack": ["Kleinur", "Happy Marriage Cake", "Hjónabandssaela"]
+  },
+  "Israel": {
+    "breakfast": ["Shakshuka", "Sabich", "Israeli Salad", "Bourekas", "Malawach"],
+    "lunch": ["Falafel Pita", "Hummus with Pita", "Malawach with Eggs", "Sambusak", "Mujadara"],
+    "dinner": ["Sabich", "Stuffed Grape Leaves", "Schnitzel", "Cauliflower Shawarma", "Shawarma Pizza"],
+    "snack": ["Bamba", "Halva", "Krembo", "Burekas", "Labneh"]
+  },
+  "Italy": {
+    "breakfast": ["Cappuccino", "Cornetto", "Frittata", "Yogurt with Granola", "Fresh Fruit", "Pandoro"],
+    "lunch": ["Pasta with Tomato Sauce", "Margherita Pizza", "Caprese Salad", "Minestrone Soup", "Grilled Chicken with Lemon", "Arancini"],
+    "dinner": ["Risotto with Porcini Mushrooms", "Bruschetta", "Eggplant Parmesan", "Seafood Linguine", "Tiramisu", "Osso Buco"],
+    "snack": ["Bruschetta with Tomatoes", "Olives and Cheese Platter", "Prosciutto-Wrapped Melon", "Stuffed Mushrooms", "Focaccia"]
+  },
+  "Jamaica": {
+    "breakfast": ["Ackee and Saltfish", "Jamaican Porridge", "Callaloo and Saltfish", "Festival", "Johnny Cakes"],
+    "lunch": ["Jerk Chicken", "Curry Goat", "Pepper Pot Soup", "Jamaican Patty", "Brown Stew Chicken"],
+    "dinner": ["Escovitch Fish", "Oxtail Stew", "Run Down", "Bammy", "Curried Chicken"],
+    "snack": ["Bammy", "Jamaican Patty", "Festival", "Peppered Shrimp", "Breadfruit Chips"]
+  },
+  "Jersey": {
+    "breakfast": ["Jersey Wonders", "Jersey Oatcakes", "Butter Cake", "Bean Crocks", "Potato Farls"],
+    "lunch": ["Bean Crock", "Jersey Royal Potato Salad", "Jersey Crab Soup", "Seafood Platter", "Crab Sandwich"],
+    "dinner": ["Jersey Fisherman's Pie", "Jersey Scallop Risotto", "Jersey Lobster", "Jersey Royals with Mint", "Jèrriais Bean Pot"],
+    "snack": ["Jersey Black Butter Ice Cream", "Apple Butter", "Jersey Fudge", "Jersey Milk Fudge", "Crab Pâté"]
+  },
+  "Jordan": {
+    "breakfast": ["Mansaf", "Falafel with Foul", "Manakish", "Kaek", "Kaek with Cheese"],
+    "lunch": ["Maqluba", "Jordanian Makmoura", "Bamieh", "Shawarma", "Fatteh"],
+    "dinner": ["Sayadieh", "Hareeseh", "Mujadara", "Kubbeh", "Maglouba"],
+    "snack": ["Arabic Sweets", "Kunafa", "Arabic Coffee", "Qatayef", "Nammoura"]
+  },
+  "Japan": {
+    "breakfast": ["Tamago Sushi", "Miso Soup with Rice", "Natto with Rice", "Japanese Pancakes", "Onsen Tamago"],
+    "lunch": ["Sushi", "Ramen", "Tempura", "Donburi", "Okonomiyaki"],
+    "dinner": ["Sashimi", "Yakitori", "Okonomiyaki", "Shabu-Shabu", "Kaiseki"],
+    "snack": ["Onigiri", "Mochi", "Matcha Ice Cream", "Taiyaki", "Dorayaki"]
+  },
+  "Kazakhstan": {
+    "breakfast": ["Beshbarmak", "Kazy", "Kurt", "Zhent", "Chak-Chak"],
+    "lunch": ["Plov", "Lagman", "Shashlik", "Manti", "Beshbarmak with Kazy"],
+    "dinner": ["Kumys", "Zhent", "Samsa", "Kuurdak", "Beshbarmak with Kazy"],
+    "snack": ["Baursaki", "Irimshik", "Chak-Chak", "Kurt", "Zhent"]
+  },
+  "Kenya": {
+    "breakfast": ["Chapati with Tea", "Mandazi", "Githeri", "Sukuma Wiki with Ugali", "Chai Poa"],
+    "lunch": ["Ugali with Sukuma Wiki", "Nyama Choma", "Maharagwe", "Irio", "Kuku Paka"],
+    "dinner": ["Pilau", "Matoke", "Sukuma Wiki with Matoke", "Nyama Mama Burger", "Mutura"],
+    "snack": ["Kachumbari", "Mutura", "Roasted Maize", "Viazi Karai", "Kaimati"]
+  },
+  "Kyrgyzstan": {
+    "breakfast": ["Oromo", "Beshbarmak", "Kurut", "Sorpa", "Kattama"],
+    "lunch": ["Laghman", "Plov", "Shashlik", "Manti", "Beshbarmak with Kazy"],
+    "dinner": ["Manti", "Samsa", "Kuurdak", "Kazy", "Jarma"],
+    "snack": ["Boorsok", "Chak-Chak", "Kurt", "Zhent", "Balburo"]
+  },
+  "Cambodia": {
+    "breakfast": ["Bai Sach Chrouk", "Kuy Teav", "Num Banh Chok", "Chive Cake", "Fish Amok"],
+    "lunch": ["Amok Trey", "Lok Lak", "Nom Plae Ai", "Khmer Red Curry", "Lap Khmer"],
+    "dinner": ["Cha Kroeung Sach Ko", "Prahok Ktis", "Bai Sach Chrouk", "Cha Traop Dot", "Samlor Kako"],
+    "snack": ["Num Ansom Chek", "Kralan", "Tirk Prahok", "Sesame Balls", "Ang Dtray-Meuk"]
+  },
+  "Kiribati": {
+    "breakfast": ["Coconut Bread", "Babai", "Tebwebwe", "Buttered Fruit", "Te Rawae"],
+    "lunch": ["Palusami", "Tiramuni", "Fish and Taro", "Ei Buri", "Kokoda"],
+    "dinner": ["Rukau", "Kakabona Chicken", "Curried Crab", "Te Inainano", "Fish Soup"],
+    "snack": ["Te Bakoa", "Raw Fish in Coconut Milk", "Banana Poke", "Kakai", "Fish Salad"]
+  },
+  "Saint Kitts and Nevis": {
+    "breakfast": ["Johnnycake", "Saltfish Buljol", "Dumplings", "Plantain Fritters", "Sugar Cake"],
+    "lunch": ["Stewed Saltfish", "Curried Goat", "Pepper Pot", "Spicy Plantain Chips", "Mango Ginger Glazed Chicken"],
+    "dinner": ["Conch Water", "Bouyon", "Breadfruit and Saltfish", "Coconut Dumplings", "Nevisian Oxtail Soup"],
+    "snack": ["Coconut Sugar Cake", "Fried Plantain", "Cheese Rolls", "Pawpaw Chutney", "Pumpkin Soup"]
+  },
+  "Korea, Republic of": {
+    "breakfast": ["Kimchi Pancakes", "Jook", "Kimbap", "Korean Egg Roll", "Tteokguk"],
+    "lunch": ["Bibimbap", "Samgyeopsal", "Japchae", "Korean BBQ Ribs", "Dak Bulgogi"],
+    "dinner": ["Kimchi Stew", "Dakgalbi", "Sundubu-jjigae", "Korean Fried Chicken", "Haemul Pajeon"],
+    "snack": ["Hotteok", "Tteokbokki", "Saeujeot", "Korean Street Toast", "Gimbap"]
+  },
+  "Kuwait": {
+    "breakfast": ["Aseeda", "Chebab", "Gers Ogaily", "Shakshuka", "Thareed"],
+    "lunch": ["Machboos", "Ghuzi", "Jireesh", "Biryani", "Mutabbaq"],
+    "dinner": ["Mutabbaq", "Biryani", "Quzi", "Mashouna", "Gabout"],
+    "snack": ["Lugaimat", "Dates with Coffee", "Mango with Sticky Rice", "Baklava", "Qurs Aish El Saraya"]
+  },
+  "Lao People's Democratic Republic": {
+    "breakfast": ["Khao Tom", "Khao Piak Sen", "Foe", "Nam Khao", "Khao Niaw"],
+    "lunch": ["Laap", "Khao Niew Mamuang", "Or Lam", "Tam Mak Hoong", "Khao Poon"],
+    "dinner": ["Kaeng Som", "Ping Kai", "Khao Soi", "Mok Pa", "Larb"],
+    "snack": ["Khanom Khrok", "Sticky Rice with Egg", "Nam Van", "Lao Beef Jerky", "Khao Jee Sandwich"]
+  },
+  "Lebanon": {
+    "breakfast": ["Manoushe", "Fatteh", "Kaak", "Lebanese Omelette", "Lebanese Date Ma'amoul"],
+    "lunch": ["Kibbeh", "Shawarma", "Foul Moudammas", "Lebanese Rice Pilaf", "Hindbeh"],
+    "dinner": ["Mujadara", "Batata Harra", "Maghmour", "Lebanese Chicken Shawarma", "Kebbeh Nayyeh"],
+    "snack": ["Sfiha", "Loubieh Bi Zeit", "Osmalieh", "Lebanese Spinach Pies", "Lebanese Creamy Rice Pudding"]
+  },
+  "Liberia": {
+    "breakfast": ["Plasas", "Palava Sauce", "Cassava Leaf Soup", "Jollof Rice", "Fried Breadfruit"],
+    "lunch": ["Jollof Rice", "Pepper Soup", "Buchanan Fish Roll", "Jollof Spaghetti", "Jollof Rice and Chicken"],
+    "dinner": ["Gboma Dessi", "Chicken Gravy", "Fried Plantains", "Palm Butter Soup", "Creamy Peanut Butter Soup"],
+    "snack": ["Kanyan Peppered Shrimp", "Palm Butter Soup", "Coconut Candy", "Kanyan Gari", "Fried Sweet Potato Chips"]
+  },
+  "Libya": {
+    "breakfast": ["Bazeen", "Couscous with Lamb", "Shakshuka", "Arabic Coffee", "Sbeiyet"],
+    "lunch": ["Libyan Mubattan", "Arabic Salad", "Fish Tagine", "Zucchini Béchamel", "Ful Medames"],
+    "dinner": ["Hararat's Lentil Soup", "Maqarona Mbakbka", "Libyan Achar", "Baklava", "Bamiya"],
+    "snack": ["Magrood", "Qamar al-Din", "Baklava", "Baklava Ice Cream", "Asida"]
+  },
+  "Saint Lucia": {
+    "breakfast": ["Green Fig and Saltfish", "Johnny Cake", "Bakes", "Saltfish Accra", "Piton Beer Bread"],
+    "lunch": ["Callaloo Soup", "Bouyon", "Saltfish Accra", "Plantain Pie", "Green Fig Salad"],
+    "dinner": ["Stewed Fish", "Green Fig Salad", "Breadfruit and Saltfish", "Fish Broth", "Souse"],
+    "snack": ["Fried Plantains", "Cassava Pone", "Pumpkin Fritters", "Tamarind Balls", "Peanut Butter Fudge"]
+  },
+  "Liechtenstein": {
+    "breakfast": ["Rösti", "Bircher Muesli", "Swiss Cheese Fondue", "Zürcher Geschnetzeltes", "Swiss Chocolate Oats"],
+    "lunch": ["Käsknöpfle", "Älplermagronen", "Zürcher Geschnetzeltes", "Chäschüechli", "Swiss Potato Rösti"],
+    "dinner": ["Raclette", "Zürcher Eintopf", "Grilled Salsiz", "Swiss Fondue", "Bündner Nusstorte"],
+    "snack": ["Bündnerfleisch", "Swiss Chocolate", "Nusstorte", "Swiss Cheese Platter", "Chocolate Meringue Cookies"]
+  },
+  "Sri Lanka": {
+    "breakfast": ["String Hoppers", "Kiribath", "Hoppers", "Pittu", "Kavum"],
+    "lunch": ["Rice and Curry", "Lamprais", "Kottu Roti", "Fish Ambul Thiyal", "Gotukola Sambol"],
+    "dinner": ["Sri Lankan Chicken Curry", "Malu Ambul Thiyal", "Wambatu Moju", "Parippu Curry", "Polos Curry"],
+    "snack": ["Konda Kavum", "Aasmi", "Kokis", "Kavum", "Isso Wade"]
+  },
+  "Lesotho": {
+    "breakfast": ["Oat Porridge", "Mokoenya", "Mageu", "Papa", "Liphuthu"],
+    "lunch": ["Papa and Chicken", "Potato and Pea Curry", "Moroho", "Mafeteng Chicken", "Lekoto"],
+    "dinner": ["Liphala", "Bunny Chow", "Lesotho Bean Soup", "Kapa", "Mohlomi"],
+    "snack": ["Diphaphata", "Lesotho Style Samoosas", "Mosukujane", "Haretsa", "Maize Bread"]
+  },
+  "Lithuania": {
+    "breakfast": ["Šaltibarščiai", "Bulviniai Blynai", "Varškėčiai", "Kūčiukai", "Koldūnai"],
+    "lunch": ["Cepelinai", "Kugelis", "Balandėliai", "Šaltiena", "Juoda Duona"],
+    "dinner": ["Žemaičių Blynai", "Juka", "Zrazy", "Skilandis", "Kiaulienos Kumpis"],
+    "snack": ["Ruginė Duona", "Šakotis", "Kavos Su Vynu", "Sūreliai", "Midus"]
+  },
+  "Luxembourg": {
+    "breakfast": ["Rieslingspaschtéit", "Huesenziwwi", "Gromperekichelcher", "Waeschtlingschmeer", "Träipen"],
+    "lunch": ["Judd mat Gaardebounen", "Bouneschlupp", "Kniddelen", "F’rell Am Rèisleck", "Gehaansweider Bounen"],
+    "dinner": ["Huesenziwwi mat Gromperenzalot", "Judd mat Gaardebounen", "Kuddelfleck", "Liewekniddelen", "Bouneschlupp"],
+    "snack": ["Gromperekichelcher", "Rieslingspaschtéit", "Gromperenzopp", "Rieslingspaschtéit", "Béierdischer"]
+  },
+  "Latvia": {
+    "breakfast": ["Rupjmaize", "Dzērvenāmaize", "Pelēkie Zirņi ar Speķi", "Rutku Biezputra", "Siera Pīrāgi"],
+    "lunch": ["Pelēkie Zirņi", "Maizes Zupa", "Biezpiena Pīrāgi", "Skābeņu Zupa", "Karbonāde"],
+    "dinner": ["Sēnes Ar Biezpienu", "Siera Kūka", "Karbonāde ar Kartupeļiem", "Saldskābā Zupa", "Kurzemes Vārze"],
+    "snack": ["Rūpjmaizes Kartojums", "Saldskābā Krējuma Krēpē", "Klingeris", "Latvijas Siers", "Ķimeņu Kvass"]
+  },
+  "Macao": {
+    "breakfast": ["Pork Chop Bun", "Egg Tart", "Almond Cookies", "Sawdust Pudding", "Portuguese Egg Custard Tart"],
+    "lunch": ["Minchi", "Bacalhau a Bras", "Curry Crab", "Prawn Dumplings", "Portuguese Chicken Rice"],
+    "dinner": ["Portuguese Baked Rice", "Serradura", "Galinha à Africana", "Pork Chop Bun", "Lacassá"],
+    "snack": ["Mango Pudding", "Jerky", "Coconut Bun", "Dim Sum", "Sawdust Pudding"]
+  },
+  "Saint Martin (French part)": {
+    "breakfast": ["Croissants", "Pain Perdu", "Crêpes", "Brioche", "Chocolate Croissants"],
+    "lunch": ["Baguette Sandwiches", "Quiche Lorraine", "Ratatouille", "Niçoise Salad", "French Onion Soup"],
+    "dinner": ["Coq au Vin", "Boeuf Bourguignon", "Duck Confit", "Cassoulet", "Escargot"],
+    "snack": ["Macarons", "Madeleines", "Éclairs", "Tarte Tatin", "Crème Brûlée"]
+  },
+  "Morocco": {
+    "breakfast": ["Msemen", "Rghaif", "Harcha", "Beghrir", "Khlea"],
+    "lunch": ["Tagine", "Couscous", "Bastilla", "Harira", "Mechoui"],
+    "dinner": ["Pastilla", "Kefta", "Zaalouk", "Tanjiya", "Chermoula"],
+    "snack": ["Maakouda", "Briouat", "Makrout", "Chebakia", "Sellou"]
+  },
+  "Monaco": {
+    "breakfast": ["Barbagiuan", "Socca", "Pissaladière", "Fougasse", "Tourta de Blette"],
+    "lunch": ["Bouillabaisse", "Pan Bagnat", "Stocafi", "Barbajuans", "Lou Pisto"],
+    "dinner": ["Fougasse", "Pissaladière", "Pasta au Pistou", "Stocafi", "Pomme de Terre à la Turbigo"],
+    "snack": ["Barbagiuan", "Socca", "Tian", "Pissaladière", "Tourta de Blette"]
+  },
+  "Moldova, Republic of": {
+    "breakfast": ["Mămăligă", "Plăcintă", "Brânză de Vacă", "Colțunași", "Merețe"],
+    "lunch": ["Sarmale", "Mămăligă cu Brânză", "Moldovan Zeama", "Mititei", "Chiftele"],
+    "dinner": ["Mămăligă cu Smântână", "Plăcintă cu Cartofi", "Drob de Miel", "Ciorbă de Perișoare", "Salată de Vinete"],
+    "snack": ["Mucenici", "Racituri", "Salată de Boeuf", "Frigărui", "Fasole cu Ceapă"]
+  },
+  "Madagascar": {
+    "breakfast": ["Mofo Gasy", "Ravitoto", "Koba", "Masikita", "Ramanonaka"],
+    "lunch": ["Romazava", "Lasary", "Akoho sy Voanio", "Ravitoto", "Koba"],
+    "dinner": ["Akoho sy Sakamalao", "Ravitoto", "Henan'omby", "Razambe", "Tsaramaso"],
+    "snack": ["Mofo Akondro", "Mokary", "Koba", "Masikita", "Ramanonaka"]
+  },
+  "Maldives": {
+    "breakfast": ["Mas Huni", "Boshi Mashuni", "Fihunu Mas", "Dhivehi Roshi", "Banbukeylu Harisa"],
+    "lunch": ["Garudhiya", "Fihunu Mas", "Theluli Mas", "Dhon Riha", "Maldivian Live Lobster"],
+    "dinner": ["Fihunu Mas", "Theluli Mas", "Kandu Kukulhu", "Garudhiya", "Saagu Bondibai"],
+    "snack": ["Hedhikaa", "Bajiya", "Kulhi Boakibaa", "Foni Boakibaa", "Masroshi"]
+  },
+  "Mexico": {
+    "breakfast": ["Chilaquiles", "Huevos Rancheros", "Enchiladas", "Molletes", "Tamales"],
+    "lunch": ["Tacos", "Guacamole", "Sopes", "Ceviche", "Pozole"],
+    "dinner": ["Mole Poblano", "Chiles en Nogada", "Tlayudas", "Birria", "Carnitas"],
+    "snack": ["Elote", "Esquites", "Quesadillas", "Churros", "Tostadas"]
+  },
+  "Marshall Islands": {
+    "breakfast": ["Coconut Milk Tea", "Fried Breadfruit", "Pandanus Fruit", "Jellyfish Noodles", "Banana Fritters"],
+    "lunch": ["Palu Sami", "Rice with Tuna", "Chicken and Breadfruit Soup", "Grilled Fish", "Green Banana and Coconut Milk"],
+    "dinner": ["Breadfruit Patties", "Marshallese Chicken Soup", "Tuna and Taro", "Lobster with Coconut Milk", "Coconut Crab"],
+    "snack": ["Arrowroot Cookies", "Kotak", "Fried Plantains", "Pulut", "Marshallese Rice Cake"]
+  },
+  "North Macedonia": {
+    "breakfast": ["Kashkaval", "Pindzhur", "Ajvar", "Burek", "Simit"],
+    "lunch": ["Tavče Gravče", "Moussaka", "Sogan-dolma", "Pindzhur", "Ajvar"],
+    "dinner": ["Tavče Gravče", "Podvarok", "Selsko Meso", "Kebapi", "Turlitava"],
+    "snack": ["Burek", "Selsko Meso", "Gravče na Tavče", "Pindzhur", "Sogan-dolma"]
+  },
+  "Mali": {
+    "breakfast": ["To", "Foufou", "Kossam", "Kunu", "Millet Porridge"],
+    "lunch": ["Jollof Rice", "Thiakry", "Mafé", "Foufou", "Grilled Fish"],
+    "dinner": ["Yassa", "Ceebu Jen", "Foufou", "Fried Okra", "Mafé"],
+    "snack": ["Maasa", "Kossam", "Chinchinga", "Beignets", "Bofrot"]
+  },
+  "Malta": {
+    "breakfast": ["Pastizzi", "Maltese Bread", "Bigilla", "Galletti", "Maltese Sausage"],
+    "lunch": ["Fenek", "Rabbit Stew", "Lampuki Pie", "Timpana", "Kapunata"],
+    "dinner": ["Stuffat Tal-Fenek", "Bebbux", "Imqaret", "Torta tal-Lampuki", "Kwareżimal"],
+    "snack": ["Gbejniet", "Helwa Tat-Tork", "Qagħaq tal-Għasel", "Pastini", "Cassatella"]
+  },
+  "Myanmar": {
+    "breakfast": ["Mohinga", "Shan Noodles", "Mont Lin Ma Yar", "Htamin Jin", "Ohn No Khao Swe"],
+    "lunch": ["Laphet Thohk", "Burmese Curry", "Mohinga", "Ohn No Khao Swe", "Shan Tofu Noodles"],
+    "dinner": ["Ono Kauswe", "Shan-style Rice", "Burmese Coconut Chicken Noodle Soup", "Biryani", "Burmese Grilled Fish"],
+    "snack": ["Bein Mont", "Lephet", "Mont Lin Ma Yar", "Kyauk Kyaw", "A Kyaw Sone"]
+  },
+  "Montenegro": {
+    "breakfast": ["Kacamak", "Pita", "Popara", "Uštipci", "Pogacha"],
+    "lunch": ["Njeguški Steak", "Riblja Corba", "Kuvani Kupus", "Pršuta", "Pljeskavica"],
+    "dinner": ["Krstaski Stap", "Kačamak", "Kapama", "Cicvara", "Japraci"],
+    "snack": ["Burek", "Krofne", "Priganice", "Kiflice", "Ćevapi"]
+  },
+  "Mongolia": {
+    "breakfast": ["Boortsog", "Aaruul", "Tsuivan", "Khailmag", "Buuz"],
+    "lunch": ["Bantan", "Khorkhog", "Khuushuur", "Byaslag", "Airag"],
+    "dinner": ["Budae Jjigae", "Hot Pot", "Deer Tsagaan Idee", "Shor Khoor", "Borts"],
+    "snack": ["Guriltai Shul", "Tsaagan Idee", "Khoorog", "Suutei Tsai", "Airag"]
+  },
+  "Northern Mariana Islands": {
+    "breakfast": ["Coconut Mango Pancakes", "Tinaktak", "Latiya", "Apigige'", "Boñelos Aga"],
+    "lunch": ["Chicken Kelaguen", "Kalua Pig", "Chamorro Red Rice", "Estufao", "Tinaktak"],
+    "dinner": ["Kelaguen Mannok", "Chamorro BBQ", "Lumpia", "Bistek", "Eggplant Kadu"],
+    "snack": ["Coconut Candy", "Latiya", "Boñelos Manglo'", "Titiyas", "Rosketti"]
+  },
+  "Mozambique": {
+    "breakfast": ["Matapa", "Xima", "Prego Roll", "Frango à Cafrial", "Chamussas"],
+    "lunch": ["Galinha à Zambeziana", "Feijão Preto", "Muamba de Galinha", "Bacalhau à Brás", "Frango com Quiabo"],
+    "dinner": ["Camarão à Moçambicana", "Chamussas", "Matapa", "Frango à Cafrial", "Pirão"],
+    "snack": ["Chamussas", "Matapa", "Chamuças de Carne", "Rissóis de Camarão", "Frango com Quiabo"]
+  },
+  "Mauritania": {
+    "breakfast": ["Achard", "Lamb Mafé", "Cheb", "Foufou", "Thiéboudienne"],
+    "lunch": ["Kedjenou", "Baked Fish", "Mafé", "Ceebu Yapp", "Cheb"],
+    "dinner": ["Thiéboudienne", "Couscous", "Thiakry", "Foufou", "Mafé"],
+    "snack": ["Beghrir", "Sfenj", "Cheb", "Kosereva", "Achard"]
+  },
+  "Montserrat": {
+    "breakfast": ["Fisherman's Breakfast", "Saltfish and Breadfruit", "Green Banana Casserole", "Bread Pudding", "Johnny Cake"],
+    "lunch": ["Goat Water", "Montserrat Goat Water", "Chicken Stew", "Mango Chicken", "Corned Beef and Rice"],
+    "dinner": ["Montserratian Chicken", "Fried Fish", "Pepper Pot", "Conch Soup", "Mango Chicken"],
+    "snack": ["Mauby", "Sea Moss Drink", "Pawpaw Punch", "Cocoa Tea", "Soursop Juice"]
+  },
+  "Martinique": {
+    "breakfast": ["Accras de Morue", "Boudin Noir", "Gratin de Bananes Jaunes", "Tourment d'Amour", "Jambon de Noel"],
+    "lunch": ["Colombo de Poulet", "Fricassée de Lambi", "Blaff de Poisson", "Cassoulet", "Lambi Boucané"],
+    "dinner": ["Rougail Saucisse", "Matété de Crabe", "Dachine Gratin", "Gratin de Christophine", "Pistache Pork"],
+    "snack": ["Flan Coco", "Gâteau Patate", "Tourment d'Amour", "Bokit", "Sorbet Coco"]
+  },
+  "Mauritius": {
+    "breakfast": ["Farata", "Gâteau Piment", "Alouda", "Dholl Puri", "Roti"],
+    "lunch": ["Briani", "Duck Curry", "Fish Vindaye", "Octopus Curry", "Chicken Kalia"],
+    "dinner": ["Bol Renversé", "Rougaille Poisson Sale", "Labouyi Bannann", "Bol Renversé", "Daube"],
+    "snack": ["Gâteau Piment", "Bouillon Masala", "Napolitaine", "Dholl Puri", "Tamarind Juice"]
+  },
+  "Malawi": {
+    "breakfast": ["Nthochi", "Chambo", "Nsima", "Dovi", "Zitumbuwa"],
+    "lunch": ["Nsima", "Chambo", "Nthochi", "Zitumbuwa", "Kondowole"],
+    "dinner": ["Nthochi", "Chambo", "Nsima", "Dovi", "Mtedza"],
+    "snack": ["Mbatata", "Maize Cake", "Mandasi", "Biltong", "Fried Masamba"]
+  },
+  "Malaysia": {
+    "breakfast": ["Nasi Lemak", "Roti Canai", "Kaya Toast", "Laksa", "Char Kway Teow"],
+    "lunch": ["Hainanese Chicken Rice", "Satay", "Nasi Goreng", "Mee Goreng", "Rendang"],
+    "dinner": ["Char Kway Teow", "Nasi Lemak", "Asam Laksa", "Bak Kut Teh", "Nasi Kerabu"],
+    "snack": ["Cendol", "Durian", "Curry Puff", "Apam Balik", "Murtabak"]
+  },
+  "Mayotte": {
+    "breakfast": ["Langouste Grillée", "Mataba", "Langouste à la Vanille", "Crabe Farci", "Bananes Flambées"],
+    "lunch": ["Gratin de Christophines", "Bouillon de Bernard l'Hermite", "Calou", "Zembrocal", "Bichiques au Lait de Coco"],
+    "dinner": ["Cari Poulet", "Crevettes Coco", "Baba Figues", "Breadfruit Gratin", "Bouillon de Bernard l'Hermite"],
+    "snack": ["Brochettes de Fruits", "Baba Figues", "Calou", "Salade de Papaye Verte", "Samoussas"]
+  },
+  "Namibia": {
+    "breakfast": ["Potjiekos", "Biltong", "Muesli", "Boerewors", "Kapana"],
+    "lunch": ["Potjiekos", "Biltong", "Mopane Worms", "Kudu Steak", "Kapana"],
+    "dinner": ["Braaivleis", "Potjiekos", "Mopane Worms", "Kudu Steak", "Kapana"],
+    "snack": ["Biltong", "Mopane Worms", "Kapana", "Potjiekos", "Vetkoek"]
+  },
+  "New Caledonia": {
+    "breakfast": ["Baguette with Butter and Jam", "Croissant", "Pain Perdu", "Omelette", "Fresh Fruits"],
+    "lunch": ["Bougna", "Grilled Lobster", "Poisson Cru", "Escargot", "Breadfruit Salad"],
+    "dinner": ["Rôti de Porc", "Bouillon d'Araignée de Mer", "Grilled Fish with Taro", "Breadfruit and Coconut Milk", "Crab Soup"],
+    "snack": ["Cassava Chips", "Fruit Salad with Vanilla", "Coconut Bread", "Papaya Smoothie", "Taro Chips"]
+  },
+  "Niger": {
+    "breakfast": ["Fulfulde", "Millet Porridge", "Beignets", "Tea", "Dates"],
+    "lunch": ["Jollof Rice", "Mafé", "Grilled Fish", "Dambou", "Tuhu"],
+    "dinner": ["Sorghum Porridge", "Tuhu", "Thiakry", "Bouillie", "Grilled Lamb"],
+    "snack": ["Kuli Kuli", "Fried Plantains", "Chinchinga", "Fried Peanuts", "Fried Millet Balls"]
+  },
+  "Norfolk Island": {
+    "breakfast": ["Avocado on Toast", "Bircher Muesli", "Pineapple Fritters", "Omelette with Cheese", "Fresh Fruit Smoothie"],
+    "lunch": ["Norfolk Island Snapper", "Breadfruit and Coconut Curry", "Grilled Lobster", "Kangaroo Steak", "Sweet Potato and Pumpkin Soup"],
+    "dinner": ["Beef and Reef", "Norfolk Island Seafood Chowder", "Rack of Lamb", "Pork Belly with Norfolk Pine Honey Glaze", "Fisherman's Basket"],
+    "snack": ["Cheese Platter with Local Honey", "Macadamia Nuts", "Coconut Scones", "Pineapple Salsa", "Caramel Banana Bread"]
+  },
+  "Nigeria": {
+    "breakfast": ["Akara", "Moimoi", "Puff-Puff", "Yam and Egg Sauce", "Jollof Rice"],
+    "lunch": ["Efo Riro", "Banga Soup", "Ogbono Soup", "Egusi Soup", "Fried Rice and Chicken"],
+    "dinner": ["Suya", "Boli", "Asun", "Ofada Rice and Ayamase Sauce", "Pepper Soup"],
+    "snack": ["Chinchinga", "Kuli Kuli", "Coconut Candy", "Kokoro", "Plantain Chips"]
+  },
+  "Nicaragua": {
+    "breakfast": ["Gallo Pinto", "Nacatamal", "Vigorón", "Maduro con Queso", "Quesillo"],
+    "lunch": ["Indio Viejo", "Baho", "Sopa de Mondongo", "Rondón", "Yoltamal"],
+    "dinner": ["Vaho", "Fritanga", "Sopa de Albóndigas", "Guiso de Res", "Arroz a la Valenciana"],
+    "snack": ["Tajadas", "Rosquillas", "Cajetas", "Tres Leches Cake", "Buñuelos"]
+  },
+  "Niue": {
+    "breakfast": ["Coconut Bread with Butter", "Ika Mata", "Taro Porridge", "Kape'akie", "Fruit Salad"],
+    "lunch": ["Lobster with Garlic Butter", "Takihi", "Palusami", "Eke", "Rukau"],
+    "dinner": ["Lu", "Poke", "Grilled Fish with Mango Salsa", "Raw Fish Salad", "Kumara Salad"],
+    "snack": ["Kulolo", "Cassava Cake", "Coconut Ice Cream", "Kape'akie", "Taro Chips"]
+  },
+  "Netherlands": {
+    "breakfast": ["Dutch Baby Pancake", "Ontbijtkoek", "Appelstroop on Bread", "Gouda Cheese", "Stroopwafels"],
+    "lunch": ["Broodje Kroket", "Patatje Oorlog", "Poffertjes", "Erwtensoep", "Bitterballen"],
+    "dinner": ["Stampot", "Hutspot", "Bami Goreng", "Stamppot", "Kapsalon"],
+    "snack": ["Drop", "Haring", "Stroopwafels", "Poffertjes", "Appeltaart"]
+  },
+  "Norway": {
+    "breakfast": ["Lefse", "Gravlaks with Bread", "Rømmegrøt", "Brunost on Crispbread", "Cloudberries with Cream"],
+    "lunch": ["Rakfisk", "Pølse med Lompe", "Koldtbord", "Raspeballer", "Fårikål"],
+    "dinner": ["Lutefisk", "Pinnekjøtt", "Kjøttkaker", "Rømmesnurrer", "Fiskeboller"],
+    "snack": ["Brunost", "Smørbrød", "Lefse", "Rakfisk", "Kransekake"]
+  },
+  "Nepal": {
+    "breakfast": ["Sel Roti", "Gundruk and Dhido", "Yomari", "Fapar Ko Roti", "Gundruk Ko Achar"],
+    "lunch": ["Dal Bhat", "Momo", "Gundruk Soup", "Gundruk Ko Jhol", "Sel Roti with Curry"],
+    "dinner": ["Yak Curry", "Gundruk with Bamboo Shoot Curry", "Kwati", "Kodo Ko Roti", "Yomari"],
+    "snack": ["Bara", "Yak Cheese", "Nepali Tea", "Sel Roti with Ghee", "Gundruk Sadeko"]
+  },
+  "Nauru": {
+    "breakfast": ["Pandanus Fruit", "Fresh Coconut", "Green Banana", "Taro", "Breadfruit"],
+    "lunch": ["Coconut Fish Soup", "Palu Sami", "Grilled Fish", "Chicken Curry", "Pandanus Leaf Wrap"],
+    "dinner": ["Breadfruit and Fish in Banana Leaves", "Chicken and Taro in Coconut Cream", "Fried Rice with Vegetables", "Squid and Taro in Coconut Milk", "Grilled Lobster"],
+    "snack": ["Fried Banana", "Papaya Salad", "Coconut Cookies", "Tapioca Pudding", "Pineapple Sorbet"]
+  },
+  "New Zealand": {
+    "breakfast": ["Pavlova", "Anzac Biscuits", "Māori Rewena Bread", "Hangi", "Fried Bread"],
+    "lunch": ["Kumara Soup", "Whitebait Fritters", "Kiwi Burger", "Paua Fritters", "Smoked Eel Pie"],
+    "dinner": ["Roast Lamb", "Green Lip Mussels", "Boil Up", "Lamb Shanks", "Venison with Plum Sauce"],
+    "snack": ["Hokey Pokey Ice Cream", "Pineapple Lumps", "Kiwifruit", "Marmite on Toast", "Kūmara Chips"]
+  },
+  "Oman": {
+    "breakfast": ["Regag Bread", "Jareesh", "Halwa", "Omani Paratha", "Egg Shakshuka"],
+    "lunch": ["Shuwa", "Omani Chicken Majboos", "Harees", "Omani Lamb Kebabs", "Omani Style Mutton Soup"],
+    "dinner": ["Maqbous", "Salona", "Samak Bil Sauce", "Mutton Korma", "Omani Chicken Mandi"],
+    "snack": ["Khawa", "Dates", "Kahwa", "Omani Sweets", "Laban"]
+  },
+  "Pakistan": {
+    "breakfast": ["Nihari", "Aloo Paratha", "Halwa Puri", "Chana Chaat", "Sheer Khurma"],
+    "lunch": ["Biryani", "Siri Paye", "Haleem", "Karhi", "Saag"],
+    "dinner": ["Korma", "Karahi Gosht", "Chapli Kebab", "Tandoori Chicken", "Dal Makhani"],
+    "snack": ["Samosa", "Pakoras", "Dahi Puri", "Chaat", "Fruit Chaat"]
+  },
+  "Panama": {
+    "breakfast": ["Hojaldras", "Tortillas", "Carimanola", "Tamal de Maíz", "Arroz con Guandú"],
+    "lunch": ["Sancocho", "Ropa Vieja", "Tamales", "Pescado a la Talla", "Guacho de Mariscos"],
+    "dinner": ["Ceviche", "Patacones", "Seco de Pollo", "Arroz con Pollo", "Corvina a la Plancha"],
+    "snack": ["Bollos", "Cocadas", "Raspados", "Tamarindo Candy", "Torta de Huevo"]
+  },
+  "Pitcairn": {
+    "breakfast": ["Fish Cakes", "Sweet Potato Pancakes", "Coconut Bread", "Breadfruit Porridge", "Banana Fritters"],
+    "lunch": ["Fish Stew", "Breadfruit Salad", "Lobster Tail with Coconut", "Seafood Chowder", "Banana Leaf-Wrapped Fish"],
+    "dinner": ["Grilled Fish with Mango Salsa", "Octopus Curry", "Pork with Pineapple", "Chicken and Breadfruit Curry", "Coconut Crab"],
+    "snack": ["Taro Chips", "Banana Chips", "Coconut Cookies", "Passionfruit Jam", "Tapioca Pudding"]
+  },
+  "Peru": {
+    "breakfast": ["Tamales", "Pan con Chicharrón", "Choclo con Queso", "Quinoa Porridge", "Avena"],
+    "lunch": ["Ceviche", "Lomo Saltado", "Aji de Gallina", "Pollo a la Brasa", "Seco de Cordero"],
+    "dinner": ["Arroz con Mariscos", "Causa Rellena", "Tacu Tacu", "Rocoto Relleno", "Adobo de Cerdo"],
+    "snack": ["Anticuchos", "Papa Rellena", "Tequeños", "Chifles", "Cancha"]
+  },
+  "Philippines": {
+    "breakfast": ["Tapsilog", "Sinangag at Itlog", "Puto Bumbong", "Pancit Canton", "Taho"],
+    "lunch": ["Adobo", "Sinigang", "Lechon Kawali", "Kare-Kare", "Laing"],
+    "dinner": ["Balut", "Bicol Express", "Pinakbet", "Chicken Inasal", "Dinuguan"],
+    "snack": ["Halo-Halo", "Turon", "Kakanin", "Fish Balls", "Taho"]
+  },
+  "Palau": {
+    "breakfast": ["Taro Pancakes", "Fried Rice with Spam", "Coconut Bread", "Tapioca Pudding", "Fresh Fruit"],
+    "lunch": ["Ulkei", "Bai", "Bat Soup", "Taro and Pumpkin Soup", "Grilled Fish with Coconut"],
+    "dinner": ["Palauan Fruit Bat Soup", "Grilled Lobster", "Palauan Chicken Adobo", "Taro Leaf Soup", "Pork with Taro in Coconut Milk"],
+    "snack": ["Coconut Crab", "Palauan Coconut Candy", "Taro Chips", "Fried Banana", "Papaya Salad"]
+  },
+  "Papua New Guinea": {
+    "breakfast": ["Sago Pudding", "Banana Scones", "Taro Pancakes", "Coconut Porridge", "Fresh Fruit"],
+    "lunch": ["Mumu", "Kaukau and Chicken", "Sweet Potato Soup", "Fisherman's Stew", "Pumpkin and Spinach Salad"],
+    "dinner": ["Sepik River Fish Curry", "Kokoda", "Roast Pork with Kumara", "Chicken Satay", "Papua New Guinean Fried Rice"],
+    "snack": ["Betel Nut", "Sago Worms", "Bilum Bags", "Papua New Guinean Biscuits", "Pineapple Salsa"]
+  },
+  "Poland": {
+    "breakfast": ["Kiełbasa and Eggs", "Pierogi with Sour Cream", "Śledzie", "Jajecznica", "Chłodnik"],
+    "lunch": ["Bigos", "Pierogi Ruskie", "Kotlet Schabowy", "Zurek", "Golabki"],
+    "dinner": ["Pierogi with Mushroom Sauce", "Gołąbki", "Rosół", "Kopytka", "Placki Ziemniaczane"],
+    "snack": ["Oscypek", "Kabanos", "Sernik", "Chrusciki", "Racuchy"]
+  },
+  "Puerto Rico": {
+    "breakfast": ["Mallorca", "Tostones with Eggs", "Mofongo with Eggs", "Avena", "Besitos de Coco"],
+    "lunch": ["Mofongo", "Arroz con Gandules", "Pernil", "Mamposteao Rice", "Pastelón"],
+    "dinner": ["Chillo en Coco", "Mofongo Relleno", "Asopao de Pollo", "Piononos", "Carne Frita"],
+    "snack": ["Alcapurrias", "Empanadillas", "Arañitas", "Tostones", "Pastelitos"]
+  },
+  "Korea, Democratic People's Republic of": {
+    "breakfast": ["Bap", "Juk", "Gyeranppang", "Hobakjuk", "Yakgwa"],
+    "lunch": ["Kimchi", "Bibimbap", "Samgyeopsal", "Doenjang Jjigae", "Japchae"],
+    "dinner": ["Naengmyeon", "Sundubu-jjigae", "Banchan", "Kalguksu", "Dakbokkeumtang"],
+    "snack": ["Tteok", "Yakwa", "Hoddeok", "Gimbap", "Hotteok"]
+  },
+  "Portugal": {
+    "breakfast": ["Pastel de Nata", "Bola de Berlim", "Tosta Mista", "Bifana", "Linguiça com Ovo"],
+    "lunch": ["Bacalhau à Brás", "Caldo Verde", "Francesinha", "Amêijoas à Bulhão Pato", "Arroz de Pato"],
+    "dinner": ["Cozido à Portuguesa", "Feijoada", "Cataplana de Marisco", "Lulas Grelhadas", "Polvo à Lagareiro"],
+    "snack": ["Queijadas", "Rissóis de Camarão", "Pão com Chouriço", "Bolinhas de Alheira", "Bolinhos de Bacalhau"]
+  },
+  "Paraguay": {
+    "breakfast": ["Chipa", "Sopa Paraguaya", "Cocido", "Mbeju", "Yvoty"],
+    "lunch": ["Asado", "Mandio Chyryry", "Pira Caldo", "Bori Bori", "Pastel Mandi'o"],
+    "dinner": ["So'o Yosopy", "Mbopi Karai", "Vori Vori", "Sopa de Poroto", "Locro"],
+    "snack": ["Kiveve", "Mbopi con Queso", "Lapachero", "Alfajores Paraguayos", "Queso Paraguayo"]
+  },
+  "Palestine, State of": {
+    "breakfast": ["Musakhan", "Falafel", "Ful Medames", "Mutabbaq", "Za'atar Manakish"],
+    "lunch": ["Maqluba", "Kebab", "Hummus", "Mansaf", "Sayadieh"],
+    "dinner": ["Fatayer", "Shawarma", "Baba Ghanoush", "Mujaddara", "Warak Enab"],
+    "snack": ["Knafeh", "Qatayef", "Basbousa", "Atayef", "Nabulsi Cheese"]
+  },
+  "French Polynesia": {
+    "breakfast": ["Poisson Cru", "Breadfruit", "Banana Poe", "Taro Root", "Coconut Bread"],
+    "lunch": ["Po'e", "Raw Fish Salad", "Fe'i Banana", "Ecrevisses Farcies", "Ipo"],
+    "dinner": ["Ma'a Tahiti", "Grilled Fish with Coconut Milk", "Pua'a Rôti", "Poisson Cru au Lait de Coco", "Fafa"],
+    "snack": ["Poisson Cru Bowl", "Firi Firi", "Tahitian Coconut Candy", "Coconut Ice Cream", "Po'e Banane"]
+  },
+  "Qatar": {
+    "breakfast": ["Balaleet", "Harees", "Regag", "Chebab", "Khameer"],
+    "lunch": ["Machboos", "Madrouba", "Thareed", "Jareesh", "Ghuzi"],
+    "dinner": ["Salona", "Arabic Kabsa", "Marqoq", "Mutabbaq", "Grilled Halloumi"],
+    "snack": ["Luqaimat", "Qatayef", "Ma'amoul", "Dates", "Arabic Coffee with Dates"]
+  },
+  "Réunion": {
+    "breakfast": ["Bouillie", "Bonbons Piments", "Samosas", "Bouchons", "Baba Figue"],
+    "lunch": ["Carri Poulet", "Rougail Saucisse", "Cari Bichique", "Cari Poisson", "Cari Langouste"],
+    "dinner": ["Rougail Morue", "Cari Ti Jacque", "Cari Pintade", "Cari Zourite", "Cari Camaron"],
+    "snack": ["Samosas", "Bonbons Piments", "Bouchons", "Baba Figue", "Tarte Tatin"]
+  },
+  "Romania": {
+    "breakfast": ["Mămăligă", "Plăcintă", "Scovergi", "Clătite", "Mucenici"],
+    "lunch": ["Mici", "Ciorbă de Perișoare", "Mămăligă cu Brânză", "Sarmale", "Moussaka"],
+    "dinner": ["Mămăligă cu Smântână", "Papanași", "Varză a la Cluj", "Tochitură Moldovenească", "Ardei Umpluți"],
+    "snack": ["Cozonac", "Plăcintă cu Brânză", "Sarmale", "Mucenici", "Colțunași cu Brânză"]
+  },
+  "Russian Federation": {
+    "breakfast": ["Blini", "Sirniki", "Oladyi", "Kasha", "Syrniki"],
+    "lunch": ["Borscht", "Pelmeni", "Beef Stroganoff", "Solyanka", "Pirozhki"],
+    "dinner": ["Shchi", "Plov", "Zharkoye", "Okroshka", "Golubtsy"],
+    "snack": ["Sushki", "Vatrushka", "Medovik", "Ptichye Moloko", "Tula Gingerbread"]
+  },
+  "Rwanda": {
+    "breakfast": ["Isombe", "Brochettes", "Akabenz", "Agatogo", "Ibihaza"],
+    "lunch": ["Isombe", "Ibihaza", "Agatogo", "Ugali", "Isombe"],
+    "dinner": ["Brochettes", "Ibihaza", "Akabenz", "Ugali", "Isombe"],
+    "snack": ["Akabenz", "Ibihaza", "Agatogo", "Brochettes", "Isombe"]
+  },
+  "Saudi Arabia": {
+    "breakfast": ["Ful Medames", "Jareesh", "Harees", "Kunafa", "Aseed"],
+    "lunch": ["Kabsa", "Mandi", "Mutabbaq", "Shawarma", "Thareed"],
+    "dinner": ["Sayadieh", "Saleeg", "Harees", "Kunafa", "Kabsa"],
+    "snack": ["Mutabbaq", "Jareesh", "Kunafa", "Falafel", "Dates"]
+  },
+  "Sudan": {
+    "breakfast": ["Ful Medames", "Kisra", "Aseeda", "Bamia", "Shay"],
+    "lunch": ["Mulah", "Fasikh", "Aseeda", "Fatta", "Bamia"],
+    "dinner": ["Mulah", "Bamia", "Aseeda", "Fatta", "Fasikh"],
+    "snack": ["Ful Medames", "Kisra", "Aseeda", "Bamia", "Shay"]
+  },
+  "Senegal": {
+    "breakfast": ["Thiakry", "Fataya", "Ceebu Jen", "Mafé", "Bissap Juice"],
+    "lunch": ["Ceebu Jen", "Mafé", "Thieboudienne", "Yassa Poulet", "Boulettes"],
+    "dinner": ["Mafé", "Ceebu Jen", "Thiakry", "Bissap Juice", "Fataya"],
+    "snack": ["Fataya", "Boulettes", "Yassa Poulet", "Thieboudienne", "Bissap Juice"]
+  },
+  "Singapore": {
+    "breakfast": ["Kaya Toast", "Soft-Boiled Eggs", "Hainanese Chicken Rice", "Roti Prata", "Nasi Lemak"],
+    "lunch": ["Chilli Crab", "Hokkien Mee", "Laksa", "Char Kway Teow", "Satay"],
+    "dinner": ["Hainanese Chicken Rice", "Nasi Lemak", "Chilli Crab", "Hokkien Mee", "Laksa"],
+    "snack": ["Kaya Toast", "Satay", "Roti Prata", "Hokkien Mee", "Chilli Crab"]
+  },
+  "South Georgia and the South Sandwich Islands": {
+    "breakfast": ["Seabird Eggs", "Fisherman's Porridge", "Smoked Mackerel", "Penguin-Sourced Omelette", "King Penguin Platter"],
+    "lunch": ["Seaweed Salad", "Whale Carpaccio", "Albatross Ceviche", "Iceberg Lettuce Wraps", "Seal Sushi"],
+    "dinner": ["Fish and Chips (South Atlantic Style)", "Kelp Noodles with Krill", "Rockhopper Roulade", "Antarctic Cod Curry", "Snow Crab Stir-Fry"],
+    "snack": ["Penguin Popcorn", "Kelp Chips", "Seal Popsicles", "Snowflake Cookies", "Blubber Bites"]
+  },
+  "Saint Helena, Ascension and Tristan da Cunha": {
+    "breakfast": ["Fishcakes", "Scone with Tuna", "Potato Pudding", "Crayfish Toastie", "Banana Pancakes"],
+    "lunch": ["Fish Stew", "Black Pudding", "Grilled Lobster", "Curried Goat", "Seafood Salad"],
+    "dinner": ["Roast Lamb", "Curried Pumpkin Soup", "Octopus Tagine", "Breadfruit Chips", "Tristan da Cunha Rock Cod"],
+    "snack": ["Tuna Bites", "Papaya Chutney", "Tropical Fruit Skewers", "Coconut Biscuits", "Passionfruit Smoothie"]
+  },
+  "Svalbard and Jan Mayen": {
+    "breakfast": ["Seal Meat Omelette", "Arctic Char Toast", "Polar Bear Paw Pastries", "Svalbard Skyr Parfait", "Snowflake Muffins"],
+    "lunch": ["Whale Steak Sandwich", "Reindeer Stew", "Salmon Soup", "Svalbard Pizza", "Arctic Char Sushi"],
+    "dinner": ["Puffin Pot Pie", "Arctic Char Fillet", "Seal Stroganoff", "Polar Bear Poutine", "Reindeer Burger"],
+    "snack": ["Seal Jerky", "Svalbard Blueberry Tarts", "Iced Seal Claw Cookies", "Arctic Trail Mix", "Glacier Ice Lollipops"]
+  },
+  "Solomon Islands": {
+    "breakfast": ["Coconut Rice Pudding", "Fried Sago Dumplings", "Cassava Pancakes", "Fisherman's Omelette", "Papaya Smoothie"],
+    "lunch": ["Lamb Flaps with Taro", "Sago Worm Salad", "Coconut Fish Curry", "Island Greens Stir-Fry", "Poi with Pineapple"],
+    "dinner": ["Grilled Flying Fox", "Coconut Crab Stir-Fry", "Bougainville Chicken Stew", "Green Papaya and Tuna Salad", "Shellfish with Coconut Rice"],
+    "snack": ["Betel Nut Chews", "Fried Breadfruit Chips", "Kokoda", "Taro and Coconut Pudding", "Passionfruit Sorbet"]
+  },
+  "Sierra Leone": {
+    "breakfast": ["Akara", "Plasas", "Fry Fry", "Kanya", "Banana Bread"],
+    "lunch": ["Jollof Rice", "Cassava Leaf Soup", "Groundnut Stew", "Okra Soup", "Fried Fish with Rice"],
+    "dinner": ["Palm Butter Soup", "Egusi Soup", "Potato Leaves Soup", "Smoked Fish Stew", "Bitter Leaf Soup"],
+    "snack": ["Chinchinga", "Fried Plantains", "Puff-Puff", "Bofrot", "Fried Cassava"]
+  },
+  "El Salvador": {
+    "breakfast": ["Pupusa", "Platanos Fritos", "Tamal de Elote", "Atol de Elote", "Quesadilla Salvadoreña"],
+    "lunch": ["Pollo en Crema", "Yuca con Chicharron", "Sopa de Pata", "Enchiladas Salvadoreñas", "Sopa de Gallina India"],
+    "dinner": ["Carne Asada", "Pescado Frito", "Tamales Salvadoreños", "Lomo Adobado", "Sopa de Res"],
+    "snack": ["Pastelitos", "Marquesote", "Empanadas de Leche", "Güisquil en Crema", "Tortitas de Elote"]
+  },
+  "San Marino": {
+    "breakfast": ["Bustrengo", "Piada", "Torta Tre Monti", "Ciambella", "Cappelletti"],
+    "lunch": ["Nidi di Rondine", "Torta Tre Monti", "Passatelli", "Garganelli", "Pasticcio di Pesce"],
+    "dinner": ["Brodetto di Pesce", "Strozzapreti", "Crescia Sfogliata", "Tiramisu", "Erbazzone"],
+    "snack": ["Squacquerone", "Gnocco Fritto", "Ciambella", "Bustrengo", "Rustico"]
+  },
+  "Somalia": {
+    "breakfast": ["Laxoox", "Canjeero", "Sabaayad", "Foul", "Kitcha"],
+    "lunch": ["Bariis", "Suqaar", "Iskudhexkaris", "Mandazi", "Malawah"],
+    "dinner": ["Hilib ari", "Bariis iskukaris", "Canjeero", "Fanjero", "Kamun"],
+    "snack": ["Rooti", "Muqmad", "Sambuusa", "Duduf", "Bajiyos"]
+  },
+  "Saint Pierre and Miquelon": {
+    "breakfast": ["Pain Perdu", "Crêpes", "Baguette with Jam", "Croissant", "Café au Lait"],
+    "lunch": ["Lobster Roll", "Seafood Casserole", "Tourtière", "Pouding Chômeur", "Coquilles Saint-Jacques"],
+    "dinner": ["Moules Marinières", "Bouillabaisse", "Blanquette de Veau", "Quiche Lorraine", "Escargot"],
+    "snack": ["Tarte Tatin", "Macarons", "Pain Poilâne", "Madeleines", "Cannele"]
+  },
+  "Serbia": {
+    "breakfast": ["Gibanica", "Kajgana", "Proja", "Ajvar", "Pljeskavica"],
+    "lunch": ["Ćevapi", "Sarma", "Podvarak", "Prebranac", "Japrak"],
+    "dinner": ["Paprikash", "Begova Čorba", "Leskovac Grilled Meat", "Riblja Čorba", "Pasulj"],
+    "snack": ["Karađorđeva Šnicla", "Pogačice sa Sirom", "Slatko", "Urnebes Salata", "Pita Sa Kiselim Zeljem"]
+  },
+  "South Sudan": {
+    "breakfast": ["Aish Baladi", "Ful Medames", "Kisra", "Asida", "Ful Sudani"],
+    "lunch": ["Nyama Choma", "Bamia", "Shaiyah", "Mulah Wah", "Kofta"],
+    "dinner": ["Kisra", "Bamia", "Nyama Choma", "Shaiyah", "Mulah Wah"],
+    "snack": ["Bamia", "Shaiyah", "Ful Sudani", "Kisra", "Ful Medames"]
+  },
+  "Sao Tome and Principe": {
+    "breakfast": ["Café Touba", "Broa de Milho", "Fruta-Pão", "Bolo de Dió", "Omelete com Pão"],
+    "lunch": ["Calulu de Peixe", "Muamba de Galinha", "Leite de Coco", "Arroz de Marisco", "Sopa Mungongo"],
+    "dinner": ["Xinxim de Galinha", "Molho de Amendoim", "Bobó de Camarão", "Canja de Galinha", "Sopa de Caracol"],
+    "snack": ["Folar de São Tomé", "Banana-pão Frita", "Queques de Batata Doce", "Café Touba", "Bolo de Castanha"]
+  },
+  "Suriname": {
+    "breakfast": ["Broodje Pom", "Bara", "Roti", "Teloh", "Bakabana"],
+    "lunch": ["Moksi Meti", "Pom", "Heri Heri", "Saoto Soup", "Pinda Soup"],
+    "dinner": ["Pom", "Roti", "Teloh", "Moksi Meti", "Bami"],
+    "snack": ["Bara", "Teloh", "Bakabana", "Saoto Soup", "Pinda Soup"]
+  },
+  "Slovakia": {
+    "breakfast": ["Parenica", "Trdelník", "Lokše", "Bryndzové Halušky", "Ovocné Knedle"],
+    "lunch": ["Bryndzové Halušky", "Sviečková", "Kapustnica", "Lokše", "Segedin Goulash"],
+    "dinner": ["Zemiakové Placky", "Halupky", "Kapustnica", "Pirohy", "Vyprážaný Syr"],
+    "snack": ["Trdelník", "Ovocné Knedle", "Parenica", "Vyprážaný Syr", "Bryndzové Pirohy"]
+  },
+  "Slovenia": {
+    "breakfast": ["Potica", "Žganci", "Ajdovi Žganci", "Belokranjska Pogača", "Prekmurska Gibanica"],
+    "lunch": ["Jota", "Idrijski Žlikrofi", "Bograč", "Kraški Pršut", "Pohorski Lonec"],
+    "dinner": ["Slovenian Bean Soup", "Kranjska Klobasa", "Matevž", "Prekmurska Gibanica", "Bela Krajina Pogača"],
+    "snack": ["Slovenian Nut Roll", "Prekmurska Gibanica", "Belokranjska Pogača", "Kranjska Klobasa", "Potica"]
+  },
+  "Sweden": {
+    "breakfast": ["Knäckebröd", "Filmjölk with Berries", "Kaviar on Crispbread", "Vörtbröd", "Gravad Lax with Mustard Sauce"],
+    "lunch": ["Smörgåstårta", "Köttbullar", "Gravlax Salad", "Pyttipanna", "Sill with New Potatoes"],
+    "dinner": ["Svenska Köttbullar", "Silltallrik", "Gravad Lax", "Janssons Frestelse", "Kroppkakor"],
+    "snack": ["Knäckebröd with Cheese", "Lingonberry Tart", "Prinsesstårta", "Räkmacka", "Lussekatter"]
+  },
+  "Eswatini": {
+    "breakfast": ["Emasi", "Bunuelos", "Sishwala", "Tingbobe", "Luseti"],
+    "lunch": ["Sidvudvu", "Braaied Meat", "Umncweba", "Lobhuthi", "Tinkhobe"],
+    "dinner": ["Incwancwa", "Roosterkoek", "Luseti", "Mnandzi", "Bunuelos"],
+    "snack": ["Kapenta", "Makakani", "Tingbobe", "Emasi", "Dombolo"]
+  },
+  "Sint Maarten (Dutch part)": {
+    "breakfast": ["Johnny Cake", "Saltfish", "Mango Smoothie", "Souse", "Poffertjes"],
+    "lunch": ["Stewed Oxtail", "Bami Goreng", "Guavaberry Colada", "Callaloo", "Pineapple Chicken"],
+    "dinner": ["Conch and Dumplings", "Grilled Mahi-Mahi", "Keshi Yena", "Lobster Mac and Cheese", "Sorrel Glazed Ham"],
+    "snack": ["Saltfish Pate", "Coconut Tart", "Guavaberry Tart", "Funchi", "Pastechi"]
+  },
+  "Seychelles": {
+    "breakfast": ["Ladob", "Tapioca Pudding", "Octopus Curry", "Breadfruit Salad", "Fish Soup"],
+    "lunch": ["Grilled Red Snapper", "Octopus Salad", "Saffron Rice", "Chicken Satini", "Lentil Soup"],
+    "dinner": ["Octopus Curry", "Ladob", "Breadfruit Salad", "Tapioca Pudding", "Fish Soup"],
+    "snack": ["Banana Chips", "Coconut Fishcakes", "Pumpkin Pudding", "Sesame Balls", "Breadfruit Chips"]
+  },
+  "Syrian Arab Republic": {
+    "breakfast": ["Ful Medames", "Manousheh", "Fatteh", "Kebab Halabi", "Barazek"],
+    "lunch": ["Kibbeh", "Shawarma", "Maqluba", "Fattoush", "Mutabbal"],
+    "dinner": ["Hareeseh", "Yalanji", "Kebab Halabi", "Knafeh", "Mandi"],
+    "snack": ["Sambusak", "Baklava", "Balah El Sham", "Kunafa", "Atayef"]
+  },
+  "Turks and Caicos Islands": {
+    "breakfast": ["Johnnycakes", "Bambarra Rum Cake", "Coconut Bread", "Sea Grape Jelly", "Guava Duff"],
+    "lunch": ["Conch Salad", "Lobster Tail", "Cracked Conch", "Rum Punch", "Grouper"],
+    "dinner": ["Grilled Rock Lobster", "Caicos Lobster Tail", "Cracked Conch", "Conch Chowder", "Grouper"],
+    "snack": ["Coconut Tart", "Pineapple Tart", "Rum Cake", "Sea Grape Jelly", "Guava Duff"]
+  },
+  "Chad": {
+    "breakfast": ["Achappam", "Chapati", "Kesari", "Akara", "Chadian Tea"],
+    "lunch": ["Brochettes", "Salam", "Millet Porridge", "Bouillie", "Kissar"],
+    "dinner": ["Ful Medames", "Tô", "Brochettes", "Boulfaf", "Dried Fish Soup"],
+    "snack": ["Kabaab", "Kolle", "Ori", "Fried Plantains", "Chadian Tea"]
+  },
+  "Togo": {
+    "breakfast": ["Fufu", "Akume", "Attiéké", "Kuli-Kuli", "Garri"],
+    "lunch": ["Palm Nut Soup", "Egusi Soup", "Tchakpalo", "Riz Sauce Poisson", "Amiwo"],
+    "dinner": ["Fufu", "Gboma Dessi", "Egusi Soup", "Kuli-Kuli", "Attiéké"],
+    "snack": ["Kuli-Kuli", "Puff-Puff", "Akara", "Bofrot", "Togolese Fruit Salad"]
+  },
+  "Thailand": {
+    "breakfast": ["Khao Niew Mamuang", "Jok", "Khao Tom", "Pa Thong Ko", "Khao Kriap Pak Mor"],
+    "lunch": ["Pad Thai", "Som Tum", "Tom Yum Goong", "Pad Krapow Moo Saap", "Gaeng Keow Wan Gai"],
+    "dinner": ["Massaman Curry", "Khao Pad", "Yam Nua", "Pad See Ew", "Pla Rad Prik"],
+    "snack": ["Khanom Buang", "Khanom Gluay", "Khanom Krok", "Khanom Chan", "Moo Ping"]
+  },
+  "Tajikistan": {
+    "breakfast": ["Oshi Palav", "Non", "Shurbo", "Kabob", "Kompot"],
+    "lunch": ["Qurotob", "Mastoba", "Somsa", "Shashlik", "Shurboi Sadosi"],
+    "dinner": ["Oshi Palav", "Qurotob", "Non", "Shashlik", "Piti"],
+    "snack": ["Somsa", "Non", "Kabob", "Kompot", "Halva"]
+  },
+  "Tokelau": {
+    "breakfast": ["Kulolo", "Kalo Poi", "Lu Sipi", "Palusami", "Puligi"],
+    "lunch": ["Talo", "Faiai Eleni", "Fried Breadfruit", "Ika Mata", "Lobster in Coconut Cream"],
+    "dinner": ["Puligi", "Palusami", "Fekei", "Lu Sipi", "Fried Breadfruit"],
+    "snack": ["Supoesi", "Tui Vai", "Kulolo", "Kalo Poi", "Ika Mata"]
+  },
+  "Turkmenistan": {
+    "breakfast": ["Churek", "Ekmek", "Gutap", "Kömeç", "Ýapon Paty"],
+    "lunch": ["Balyk", "Köfte", "Somsa", "Shashlyk", "Plov"],
+    "dinner": ["Balyk", "Köfte", "Somsa", "Manty", "Plov"],
+    "snack": ["Churek", "Ekmek", "Ýapon Paty", "Gutap", "Kömeç"]
+  },
+  "Timor-Leste": {
+    "breakfast": ["Batar Daan", "Oatmeal with Coconut", "Tapioca Cake", "Sikuk", "Sai Buaun"],
+    "lunch": ["Feijoada", "Bobó de Camarão", "Frango à Passarinho", "Arroz de Carneiro", "Vatapá"],
+    "dinner": ["Feijoada", "Bobó de Camarão", "Frango à Passarinho", "Arroz de Carneiro", "Vatapá"],
+    "snack": ["Tapioca Cake", "Batar Daan", "Sikuk", "Oatmeal with Coconut", "Sai Buaun"]
+  },
+  "Tonga": {
+    "breakfast": ["Lu Pulu", "'Otai", "Fried Breadfruit with Ufi", "'Ufi 'Ama", "Faikakai"],
+    "lunch": ["'Ota 'Ika", "Lu Sipi", "'Umumumumu", "Lobster with Coconut Cream", "Palusami"],
+    "dinner": ["'Ota 'Ika", "Lu Sipi", "'Umumumumu", "Lobster with Coconut Cream", "Palusami"],
+    "snack": ["'Otai", "Faikakai", "Fried Breadfruit with Ufi", "'Ufi 'Ama", "Kapa"]
+  },
+  "Trinidad and Tobago": {
+    "breakfast": ["Doubles", "Bake and Shark", "Saltfish Buljol", "Corn Soup", "Callaloo and Saltfish"],
+    "lunch": ["Roti", "Pelau", "Curry Chicken", "Stewed Chicken", "Cow Heel Soup"],
+    "dinner": ["Pelau", "Curry Duck", "Stew Fish", "Callaloo and Saltfish", "Oil Down"],
+    "snack": ["Doubles", "Aloo Pie", "Pholourie", "Souse", "Bake and Shark"]
+  },
+  "Tunisia": {
+    "breakfast": ["Lablabi", "Brik", "Makroudh", "Chorba", "Kaak Warka"],
+    "lunch": ["Couscous", "Ojja", "Tajine", "Brik", "Makroudh"],
+    "dinner": ["Couscous", "Ojja", "Tajine", "Fricassée", "Harissa"],
+    "snack": ["Lablabi", "Kaak Warka", "Makroudh", "Brik", "Chorba"]
+  },
+  "Türkiye": {
+    "breakfast": ["Simit", "Menemen", "Sucuklu Yumurta", "Bal Kaymak", "Kahvaltı Mezesi"],
+    "lunch": ["Kebap", "Köfte", "Döner", "Manti", "Börek"],
+    "dinner": ["Karnıyarık", "Hünkar Beğendi", "İskender", "Meze", "Pide"],
+    "snack": ["Midye Dolma", "Baklava", "Lahmacun", "Kumpir", "Kokoreç"]
+  },
+  "Tuvalu": {
+    "breakfast": ["Pulaka", "Te Boro", "Tapioca with Coconut", "Kapeisi", "Takihi"],
+    "lunch": ["Luau", "Te Boro", "Tuna Cakes", "Pulaka", "Fried Breadfruit"],
+    "dinner": ["Luau", "Te Boro", "Tuna Cakes", "Pulaka", "Fried Breadfruit"],
+    "snack": ["Kapeisi", "Takihi", "Tapioca with Coconut", "Pulaka", "Te Boro"]
+  },
+  "Taiwan, Province of China": {
+    "breakfast": ["Dan Bing", "Soy Milk", "Shao Bing You Tiao", "Fan Tuan", "Rou Geng"],
+    "lunch": ["Gua Bao", "Beef Noodle Soup", "Oyster Omelet", "Lu Rou Fan", "Bubble Tea"],
+    "dinner": ["Dumplings", "Hot Pot", "Braised Pork Rice", "Stinky Tofu", "Three Cup Chicken"],
+    "snack": ["Boba Milk Tea", "Iron Eggs", "Pineapple Cake", "Wheel Cake", "Scallion Pancake"]
+  },
+  "Tanzania, United Republic of": {
+    "breakfast": ["Chapati", "Mandazi", "Uji", "Vitumbua", "Supu Ya Ndizi"],
+    "lunch": ["Nyama Choma", "Ugali", "Mchuzi Wa Kuku", "Pilau", "Wali Na Maharage"],
+    "dinner": ["Mishkaki", "Pilau", "Wali Na Maharage", "Ndizi Nyama", "Supu Ya Kuku"],
+    "snack": ["Mandazi", "Kaimati", "Vitumbua", "Mahamri", "Chips Mayai"]
+  },
+  "Uganda": {
+    "breakfast": ["Rolex", "Mandazi", "Katogo", "Posho", "Chapati with Beans"],
+    "lunch": ["Luwombo", "Matoke", "Posho and Beans", "Pilau", "Nyama Choma"],
+    "dinner": ["Luweero Kintu Chicken", "Akabenz", "Eshabwe", "Malakwang", "Malewa"],
+    "snack": ["Boiled Maize", "Fried Cassava", "Rolex", "Fruits", "Fried Fish"]
+  },
+  "Ukraine": {
+    "breakfast": ["Borshch", "Holubtsi", "Syrniki", "Nalysnyky", "Olivier Salad"],
+    "lunch": ["Varenyky", "Deruny", "Kholodets", "Kotlety", "Pampushky"],
+    "dinner": ["Borshch", "Holubtsi", "Salo", "Plov", "Chicken Kyiv"],
+    "snack": ["Pyrih", "Kutia", "Medovik", "Syrniki", "Varenyky"]
+  },
+  "United States Minor Outlying Islands": {
+    "breakfast": ["Pancakes", "Bacon and Eggs", "Bagel with Cream Cheese", "French Toast", "Avocado Toast"],
+    "lunch": ["Hamburger", "Hot Dog", "Club Sandwich", "Caesar Salad", "Grilled Cheese Sandwich"],
+    "dinner": ["Steak", "Barbecue Ribs", "Fried Chicken", "Spaghetti Bolognese", "Shrimp Scampi"],
+    "snack": ["Popcorn", "Nachos with Cheese", "Buffalo Wings", "Guacamole with Tortilla Chips", "Cheese and Crackers"]
+  },
+  "Uruguay": {
+    "breakfast": ["Mate", "Dulce de Leche Toast", "Chaja Cake", "Bizcochos", "Grilled Cheese Sandwich"],
+    "lunch": ["Asado", "Milanesa", "Chivito", "Empanadas", "Parrillada"],
+    "dinner": ["Choripán", "Morcilla", "Uruguayan Pizza", "Fainá", "Pastel de Papas"],
+    "snack": ["Mate Cocido", "Dulce de Leche Ice Cream", "Churros", "Alfajores", "Torta Frita"]
+  },
+  "United States": {
+    "breakfast": ["Pancakes", "Bacon and Eggs", "Bagel with Cream Cheese", "French Toast", "Avocado Toast"],
+    "lunch": ["Hamburger", "Hot Dog", "Club Sandwich", "Caesar Salad", "Grilled Cheese Sandwich"],
+    "dinner": ["Steak", "Barbecue Ribs", "Fried Chicken", "Spaghetti Bolognese", "Shrimp Scampi"],
+    "snack": ["Popcorn", "Nachos with Cheese", "Buffalo Wings", "Guacamole with Tortilla Chips", "Cheese and Crackers"]
+  },
+  "Uzbekistan": {
+    "breakfast": ["Osh Palov", "Non", "Mastava", "Kazy", "Shorva"],
+    "lunch": ["Manti", "Shashlik", "Lagman", "Somsa", "Dimlama"],
+    "dinner": ["Osh Palov", "Shashlik", "Manti", "Lagman", "Somsa"],
+    "snack": ["Non", "Halva", "Kazy", "Shorva", "Kumis"]
+  },
+  "Holy See (Vatican City State)": {
+    "breakfast": ["Cappuccino", "Cornetto", "Frittata", "Yogurt with Granola", "Fresh Fruit"],
+    "lunch": ["Pasta with Tomato Sauce", "Margherita Pizza", "Caprese Salad", "Minestrone Soup", "Grilled Chicken with Lemon"],
+    "dinner": ["Risotto with Porcini Mushrooms", "Bruschetta", "Eggplant Parmesan", "Seafood Linguine", "Tiramisu"],
+    "snack": ["Bruschetta with Tomatoes", "Olives and Cheese Platter", "Prosciutto-Wrapped Melon", "Stuffed Mushrooms"]
+  },
+  "Saint Vincent and the Grenadines": {
+    "breakfast": ["Fried Jackfish", "Breadfruit Cou-Cou", "Bakes and Saltfish", "Souse", "Mango Smoothie"],
+    "lunch": ["Callaloo Soup", "Roti", "St Vincent and the Grenadines National Dish", "Fish Water", "Grilled Lobster"],
+    "dinner": ["Curried Conch", "Breadfruit Salad", "Stewed Sea Cat", "Breadfruit and Butter", "Black Fish with Rice and Peas"],
+    "snack": ["Sea Moss Drink", "Coconut Drops", "Sugar Cake", "Fried Plantains", "Pumpkin Soup"]
+  },
+  "Venezuela, Bolivarian Republic of": {
+    "breakfast": ["Arepas", "Quesillo", "Mandocas", "Empanadas", "Tequeños"],
+    "lunch": ["Pabellón Criollo", "Ajiaco", "Hallaca", "Cachapa", "Carabobeño Salad"],
+    "dinner": ["Cachapa", "Patacón", "Pabellón Criollo", "Arepa Reina Pepiada", "Asado Negro"],
+    "snack": ["Tequeños", "Empadao", "Arepas", "Ajiaco", "Chicha"]
+  },
+  "Virgin Islands, British": {
+    "breakfast": ["Johnny Cakes", "Saltfish", "Dumplings", "Bush Tea", "Fungi"],
+    "lunch": ["Roti", "Fish and Fungi", "Conch Soup", "Fish and Bammy", "Pepper Pot"],
+    "dinner": ["Curried Goat", "Pate", "Souse", "Cassava Bread", "Fried Shark"],
+    "snack": ["Banana Fritters", "Conch Fritters", "Festival", "Coconut Tart", "Guava Cheese"]
+  },
+  "Virgin Islands, U.S.": {
+    "breakfast": ["Plantain Porridge", "Bush Tea", "Festival", "Coconut Bread", "Papaya Smoothie"],
+    "lunch": ["Conch Chowder", "Pumpkin Soup", "Crab and Rice", "Mahi-Mahi Tacos", "Banana Fritters"],
+    "dinner": ["Roti", "Callaloo and Saltfish", "Conch in Butter Sauce", "Grilled Lobster", "Curried Goat"],
+    "snack": ["Guava Tart", "Passion Fruit Juice", "Pineapple Salsa", "Banana Bread", "Guava Cheese"]
+  },
+  "Viet Nam": {
+    "breakfast": ["Pho", "Banh Mi", "Bun Thit Nuong", "Xoi", "Banh Cuon"],
+    "lunch": ["Bun Bo Hue", "Com Tam", "Goi Cuon", "Mi Quang", "Cha Ca"],
+    "dinner": ["Pho", "Bun Thit Nuong", "Goi Du Du Kho Bo", "Banh Xeo", "Ca Kho To"],
+    "snack": ["Banh Mi", "Goi Cuon", "Xoi", "Banh Canh", "Che"]
+  },
+  "Vanuatu": {
+    "breakfast": ["Lap Lap", "Pikliz", "Fried Banana", "Pancakes", "Papaya Smoothie"],
+    "lunch": ["Coconut Crab", "Lap Lap", "Palusami", "Tuluk", "Nalot"],
+    "dinner": ["Lap Lap", "Palusami", "Tuluk", "Nalot", "Vanuatu Bougna"],
+    "snack": ["Fried Banana", "Pancakes", "Pikliz", "Coconut Crab", "Fruit Skewers"]
+  },
+  "Wallis and Futuna": {
+    "breakfast": ["Firi Firi", "Kato", "Pineapple Coconut Bread", "Bougna", "Fish in Coconut Milk"],
+    "lunch": ["Kato", "Poisson Cru", "Patia", "Bougna", "Fish and Taro in Coconut Milk"],
+    "dinner": ["Firi Firi", "Fish and Taro in Coconut Milk", "Bougna", "Patia", "Pineapple Coconut Bread"],
+    "snack": ["Kato", "Poisson Cru", "Fish in Coconut Milk", "Fruit Salad", "Coconut Biscuits"]
+  },
+  "Samoa": {
+    "breakfast": ["Oka", "Pani Popo", "Palusami", "Koko Rice", "Pineapple Smoothie"],
+    "lunch": ["Palusami", "Koko Rice", "Oka", "Faiai Eleni", "Samoan Sapasui"],
+    "dinner": ["Koko Rice", "Oka", "Faiai Eleni", "Palusami", "Samoan Sapasui"],
+    "snack": ["Pani Popo", "Koko Rice", "Oka", "Talo", "Fa'ausi"]
+  },
+  "Yemen": {
+    "breakfast": ["Saltah", "Ful Medames", "Aseed", "Malawah", "Shakshuka"],
+    "lunch": ["Zorbian", "Mandi", "Kabsa", "Saltah", "Aseed"],
+    "dinner": ["Harees", "Thareed", "Aseed", "Malawah", "Shakshuka"],
+    "snack": ["Ful Medames", "Jachnun", "Roz Bel Laban", "Khaliat Nahal", "Mutabbaq"]
+  },
+  "South Africa": {
+    "breakfast": ["Boerewors", "Bunny Chow", "Bobotie", "Koeksisters", "Malva Pudding"],
+    "lunch": ["Biltong", "Potjiekos", "Sosaties", "Braai", "Chakalaka"],
+    "dinner": ["Bobotie", "Braai", "Bunny Chow", "Potjiekos", "Sosaties"],
+    "snack": ["Biltong", "Koeksisters", "Chakalaka", "Melktert", "Peppermint Crisp Tart"]
+  },
+  "Zambia": {
+    "breakfast": ["Nshima", "Ifisashi", "Katapa", "Vinkubala", "Munkoyo Drink"],
+    "lunch": ["Nshima", "Ifisashi", "Katapa", "Vinkubala", "Munkoyo Drink"],
+    "dinner": ["Nshima", "Ifisashi", "Katapa", "Vinkubala", "Munkoyo Drink"],
+    "snack": ["Chikanda", "Masuku", "Kandolo", "Kakapa", "Chibwabwa"]
+  },
+  "Zimbabwe": {
+    "breakfast": ["Sadza", "Muriwo Unedovi", "Dovi", "Boerewors", "Mopane Worms"],
+    "lunch": ["Sadza", "Muriwo Unedovi", "Dovi", "Boerewors", "Mopane Worms"],
+    "dinner": ["Sadza", "Muriwo Unedovi", "Dovi", "Boerewors", "Mopane Worms"],
+    "snack": ["Maputi", "Chimodho", "Bota", "Madora", "Mabhonzo"]
+  }
+}
+
